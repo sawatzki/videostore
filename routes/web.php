@@ -1,0 +1,22 @@
+<?php
+
+/*
+|--------------------------------------------------------------------------
+| Web Routes
+|--------------------------------------------------------------------------
+|
+| Here is where you can register web routes for your application. These
+| routes are loaded by the RouteServiceProvider within a group which
+| contains the "web" middleware group. Now create something great!
+|
+*/
+
+Auth::routes();
+Route::get('/movie', 'MovieController@index')->name('movie.index');
+Route::get('/movie/show/{id}', 'MovieController@show')->name('movie.show');
+Route::get('/movie/edit/{id?}', 'MovieController@edit')->name('movie.edit');
+Route::get('/movie/store/{id?}', 'MovieController@store')->name('movie.store');
+Route::get('/movie/delete/{id}', 'MovieController@delete')->name('movie.delete');
+
+Route::permanentRedirect('/','/movie');
+Route::get('/home', 'HomeController@index')->name('home');
