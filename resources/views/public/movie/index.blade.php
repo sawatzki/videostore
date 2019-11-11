@@ -5,7 +5,14 @@
         <div class="row justify-content-center">
             <div class="col-md-10">
                 <div class="card col-md-12">
-                    <div class="card-header row">@lang('Movies')</div>
+                    <div class="card-header row">
+                        <div class="col">
+                            @lang('Movies')
+                        </div>
+                        <div class="col float-right text-right">
+                            <a class="btn btn-primary" role="button" href="{{ route('movie.edit')  }}">Create New</a>
+                        </div>
+                    </div>
                     <div class="card-body row p-0 justify-content-center">
                         @if($data->count() > 0 )
                             @if( method_exists($data, 'links') )
@@ -21,7 +28,7 @@
                                     <th class="d-none d-md-table-cell">Autor</th>
                                     <th class="d-none d-md-table-cell">€</th>
                                     <th class="d-none d-md-table-cell">Jahr</th>
-                                    <th>&nbsp&nbsp;</th>
+                                    <th colspan="2">&nbsp&nbsp;</th>
                                 </tr>
                             @foreach ($data as $item)
                                 <tr>
@@ -30,7 +37,8 @@
                                     <td class="d-none d-md-table-cell">@if($item->author) {{ $item->author }} @endif</td>
                                     <td class="d-none d-md-table-cell">{{ $item->price }} </td>
                                     <td class="d-none d-md-table-cell">{{ $item->created_at->format('Y') }}</td>
-                                    <td><a class="btn-sm btn-dark" href="{{ route('movie.show', ['movie' => $item->id]) }}">Show</a></td>
+                                    <td><a class="btn-sm btn-primary" href="{{ route('movie.show', ['id' => $item->id]) }}">Show</a></td>
+                                    <td><a class="btn-sm btn-primary" href="{{ route('movie.edit', ['id' => $item->id]) }}">Edit</a></td>
                                 </tr>
                             @endforeach
                             </table>

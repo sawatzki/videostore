@@ -24,7 +24,20 @@ class MovieRequest extends FormRequest
     public function rules()
     {
         return [
-            //
+            'author_id'     => 'required',
+            'title'         => 'required|min:2',
+            'price'         => 'required|numeric',
+        ];
+    }
+
+    public function messages()
+    {
+        return [
+            'title.required'    => 'Bitte eine Titel angeben!',
+            'title.min'         => 'Der Titel muss mindestens :min Zeihen enthalten!',
+            'price.required'    => 'Bitte einen Preis angeben!',
+            'price.numeric'     => 'Der Preis darf nur numerische Zeichen enthalten!',
+            'author_id.required'   => 'Bitte einen Autor auswählen!',
         ];
     }
 }
