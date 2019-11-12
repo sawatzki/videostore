@@ -34,7 +34,7 @@ class MovieRequest extends FormRequest
     {
         return [
             'title.required'    => 'Bitte eine Titel angeben!',
-            'title.min'         => 'Der Titel muss mindestens :min Zeihen enthalten!',
+            'title.min'         => 'Der Titel muß mindestens :min Zeichen enthalten!',
             'price.required'    => 'Bitte einen Preis angeben!',
             'price.numeric'     => 'Der Preis darf nur numerische Zeichen enthalten!',
             'author_id.required'   => 'Bitte einen Autor auswählen!',

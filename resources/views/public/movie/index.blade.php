@@ -7,7 +7,7 @@
                 <div class="card col-md-12">
                     <div class="card-header row">
                         <div class="col">
-                            @lang('Movies')
+                            {{ __('Movie') }}
                         </div>
                         <div class="col float-right text-right">
                             <a class="btn btn-primary" role="button" href="{{ route('movie.edit')  }}">Create New</a>

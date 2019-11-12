@@ -8,4 +8,4 @@ nach der Installation folgendes per Terminal im Projektverzeichnis ausführen:
  Verzeichnis im Webroot => VHost Adresse
  (zB: **RedirectPermanent /videostore http://videostore.loc**) 
 - npm run dev
-- .enc.local kopieren nach .env und die darin enthaltenen Conf-Daten anpassen
+- .env.local kopieren nach .env und die darin enthaltenen Conf-Daten anpassen
