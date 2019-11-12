@@ -1,0 +1,1001 @@
+id;author_id;category_id;title;price;language;created_at;updated_at
+1;10;21;Ca$h;40.86;Assamese;1968-11-09 12:58:05;1994-07-21 07:28:35
+2;15;8;Elaine Stritch: Shoot Me;35.29;Luxembourgish;1962-10-24 21:59:52;1990-05-26 12:43:01
+3;22;39;Creature;31.01;Tsonga;1945-05-12 17:52:28;1937-04-14 16:01:28
+4;21;38;Toothless;49.5;Norwegian;1943-11-17 02:57:09;1948-09-01 02:52:08
+5;8;21;American Adobo;26.33;Punjabi;1973-03-19 07:20:02;1968-05-06 06:49:09
+6;32;43;Finding Normal;7.15;Persian;1982-07-26 23:50:14;1936-02-26 04:51:36
+7;49;20;Tripper, The;6.84;Romanian;1939-01-27 00:01:34;1936-05-26 00:56:45
+8;42;7;Howard the Duck;36.23;Belarusian;1938-12-04 11:45:04;1992-01-06 07:54:37
+9;35;43;Blue Ruin;5.51;Hindi;2014-05-30 09:18:26;2007-04-14 03:55:59
+10;44;19;Vampyr;31.84;Macedonian;2014-04-24 06:43:45;1964-07-05 05:19:49
+11;46;1;Same Time, Next Year;44.31;Persian;1944-05-23 14:33:25;1999-03-24 22:59:15
+12;4;45;By the Gun;47.31;Amharic;1981-03-14 13:57:40;1932-03-02 12:55:16
+13;3;21;Dr. Horrible's Sing-Along Blog;27.56;French;1960-07-27 21:10:24;1988-11-11 04:33:09
+14;31;42;Ivan's Childhood (a.k.a. My Name is Ivan) (Ivanovo detstvo);24.62;Northern Sotho;1940-07-15 11:28:49;1956-12-28 04:50:49
+15;32;18;Ah, Wilderness!;40.47;Lao;2007-06-08 06:17:56;1991-02-14 05:49:31
+16;43;38;World Traveler;19.99;Kazakh;1984-10-31 21:54:40;1995-08-29 17:00:14
+17;27;33;Sharpe's Gold;39.67;Māori;1965-06-28 06:16:39;1976-06-01 02:53:01
+18;7;1;Lies and Illusions;6.4;Quechua;2010-05-21 03:52:28;1970-01-15 17:24:19
+19;28;39;Dante's Inferno;37.29;Amharic;1961-01-26 04:10:59;1931-10-11 14:56:49
+20;26;44;Better Luck Tomorrow;49.86;Assamese;1964-01-02 13:09:55;1996-07-02 05:41:28
+21;7;31;Boys and Girls Guide to Getting Down, The;12.68;Luxembourgish;1984-09-20 05:38:47;2012-08-23 17:29:23
+22;29;47;End of Suburbia: Oil Depletion and the Collapse of the American Dream;24.41;Tamil;1948-03-09 00:07:46;1956-04-26 20:48:27
+23;3;34;Wanted: Dead or Alive;29.33;Yiddish;1933-09-02 19:49:21;1988-09-13 02:41:17
+24;25;12;Homevideo;32.64;Polish;1948-03-02 11:26:29;1934-12-25 05:33:58
+25;25;38;I Hate Valentine's Day;31.42;Bislama;1957-11-20 08:50:16;1998-10-01 02:23:07
+26;8;29;Homefront;6.08;Kannada;1938-11-29 19:49:35;1933-04-13 07:34:37
+27;45;6;Miss Nobody;7.9;Gagauz;2009-02-21 06:45:56;1934-11-29 18:44:37
+28;43;22;Terror on a Train (Time Bomb);22.03;Romanian;1939-11-28 18:04:47;1977-06-30 05:10:50
+29;9;12;Happy Together (a.k.a. Buenos Aires Affair) (Chun gwong cha sit);34.2;Ndebele;1951-01-09 05:34:09;1965-03-23 06:52:45
+30;7;33;One Way Passage;34.84;Portuguese;1932-08-19 10:40:23;2003-07-16 07:10:49
+31;39;1;Just Friends;31.23;Papiamento;2019-05-17 14:31:09;1999-05-06 20:38:09
+32;31;47;Incident at Oglala;8.23;Northern Sotho;1951-08-10 15:38:18;1966-09-05 05:51:06
+33;33;6;Good, the Bad and the Ugly, The (Buono, il brutto, il cattivo, Il);45.89;Malay;1953-08-20 01:54:35;1993-10-21 12:13:59
+34;19;16;Johnny in the Clouds;19.22;Bosnian;2002-06-04 16:18:29;1955-02-16 02:56:07
+35;6;27;Delphine 1, Yvan 0;5.43;Icelandic;1987-06-08 03:32:11;2017-02-19 19:30:55
+36;45;16;Bright Leaves;10.16;Sotho;2019-07-24 05:39:41;1950-11-02 15:27:37
+37;46;26;Love Object;31.43;Malagasy;2014-02-04 08:24:50;1990-01-01 00:24:39
+38;50;38;Adam and Dog;32.87;Polish;2007-01-01 13:05:29;1935-05-16 03:11:32
+39;46;46;Brass Teapot, The;36.37;Amharic;1991-01-09 02:26:32;1968-04-27 14:19:35
+40;21;5;Quatermass 2 (Enemy from Space);44.63;Nepali;1932-11-03 22:32:55;1963-04-29 22:20:45
+41;29;17;An Apology to Elephants;7.65;Catalan;1967-06-06 09:52:22;1949-11-29 10:26:33
+42;9;6;Bûche, La;48.26;Tajik;1937-05-20 19:33:41;1990-01-28 07:10:01
+43;2;44;Dead Space: Aftermath;8.91;Pashto;1967-07-20 12:29:27;2002-03-22 22:03:12
+44;8;20;Duplicate;22.08;Bulgarian;2000-07-27 23:27:03;1983-07-11 09:09:27
+45;48;33;Prison (Fängelse) ;46.01;Kyrgyz;1952-03-31 03:24:59;2006-01-15 09:34:59
+46;40;42;After the Sunset;41.19;Spanish;1983-12-07 07:15:38;1959-03-22 20:02:51
+47;12;33;Shaft;16.57;Pashto;1985-06-02 15:51:29;1942-08-15 14:20:00
+48;38;34;Bucky Larson: Born to Be a Star;31.48;Hindi;2006-08-03 22:07:40;2008-11-14 18:45:10
+49;31;14;Chris Rock: Bigger & Blacker;45.12;Hungarian;1940-03-22 22:03:42;1949-05-18 21:52:06
+50;49;25;Freeze Frame;46.72;Afrikaans;1959-11-01 22:53:37;1999-04-24 19:04:48
+51;18;42;Mighty Aphrodite;29.61;Māori;1972-03-01 18:51:11;2004-05-11 22:18:06
+52;20;5;Dementia (a.k.a. Daughter of Horror);45.22;Tetum;1963-02-20 23:49:17;1979-05-17 09:44:52
+53;37;3;The Affairs of Martha;33.02;Somali;1956-10-06 01:02:44;2019-02-19 22:24:54
+54;2;5;Experience, The (Tadjrebeh);29.63;Nepali;2006-05-14 02:30:58;1971-08-09 23:32:39
+55;49;20;Back from Eternity;31.67;Arabic;1993-01-13 05:43:26;2003-01-15 01:22:11
+56;35;25;Someone Like You (Unnaipol Oruvan);18.32;Catalan;1944-03-19 19:39:22;2017-01-19 17:15:35
+57;10;26;My Grandfather's People (Dedemin insanlari);18.3;Hiri Motu;1931-10-09 04:17:36;1951-11-29 10:31:05
+58;20;20;Komodo;42.97;Latvian;1972-12-10 19:41:57;1966-01-07 08:38:55
+59;18;33;Slim Carter;23.44;Filipino;1989-05-19 05:20:01;1968-07-27 14:17:00
+60;35;22;Dance, Girl, Dance;46.69;Belarusian;1945-02-09 20:54:07;2016-10-18 08:56:12
+61;16;7;Age of Heroes;28.27;Tswana;1947-07-28 12:29:56;1982-04-09 19:59:14
+62;48;2;Sands of Iwo Jima;5.54;Swahili;1980-04-07 12:00:32;1962-07-06 01:29:37
+63;22;8;Time to Leave;48.06;Irish Gaelic;1997-08-11 02:25:26;1988-03-26 09:16:21
+64;44;26;Girls Can't Swim (Filles ne savent pas nager, Les);47.32;Papiamento;1945-06-17 05:01:58;2013-07-24 02:36:27
+65;33;38;Mio in the Land of Faraway (Mio min Mio);22.44;Bulgarian;1978-01-06 08:22:49;1969-03-13 08:26:18
+66;32;44;Swing Vote;33.42;Papiamento;1974-02-04 13:46:19;1999-10-07 20:33:33
+67;32;12;Two Solutions for One Problem (Dow Rahehal Baraye yek Massaleh);19.18;Hebrew;1961-11-02 06:39:57;1939-12-27 01:43:40
+68;31;5;Long and Short of It, The;25.02;Armenian;1990-10-25 11:50:36;1943-02-28 16:24:39
+69;39;29;Star for Two, A;43.56;Italian;1953-05-23 13:16:28;2012-01-18 12:09:08
+70;41;25;Brothers of the Head;6.42;Swati;1952-05-25 01:55:45;2005-08-10 07:22:57
+71;48;42;9th Company;8.56;Guaraní;1993-07-11 17:35:13;1984-05-11 14:30:09
+72;47;26;Erik the Viking;24.82;Malagasy;2009-10-23 07:35:11;1943-04-09 17:59:37
+73;13;45;Armed and Dangerous;33.26;Tetum;1949-04-17 19:56:40;1961-10-20 04:20:29
+74;28;47;Very Natural Thing, A;22.09;Arabic;1988-12-11 10:20:14;2004-01-22 13:51:00
+75;8;33;Life Without Dick;31.96;Marathi;1975-01-26 03:27:23;2011-04-10 22:23:09
+76;6;16;Who's Camus Anyway? (Kamyu nante shiranai);26.8;West Frisian;2019-03-16 12:41:44;1935-06-03 11:32:04
+77;12;15;Gods Must Be Crazy III, The (a.k.a. Crazy Safari) (Fei zhou he shang);19.54;Spanish;1980-06-23 18:17:39;1994-12-21 04:52:58
+78;36;46;Hole, The;13.27;Swedish;1978-09-13 04:49:56;2005-10-21 16:52:37
+79;40;7;To the Shores of Tripoli;8.96;Korean;2000-04-20 10:52:10;1950-04-04 13:18:37
+80;11;20;Follow the Bitch;36.19;Macedonian;1992-01-08 23:18:19;1943-09-30 19:33:30
+81;18;31;Amour;38.83;Northern Sotho;1961-08-25 20:34:34;2000-03-20 13:28:40
+82;35;22;Killing Us Softly 3;12.51;Filipino;1933-12-01 17:46:22;1957-04-08 19:45:39
+83;11;31;What a Girl Wants;13.52;Tamil;2007-01-03 12:59:31;1971-11-15 08:09:31
+84;48;39;Getting to Know You;17.44;Chinese;1974-08-05 00:33:01;1953-01-17 15:17:00
+85;26;2;For Pete's Sake;5.93;Tajik;1982-02-22 21:05:00;1977-12-28 17:55:11
+86;47;38;Son of God;15.3;Swati;1952-02-29 17:04:12;1959-02-01 02:38:22
+87;10;21;Beverly Hills Chihuahua 3;5.49;Aymara;1999-03-02 04:41:09;2000-02-14 13:44:12
+88;41;33;Marooned in Iraq (Gomgashtei dar Aragh);30.53;Belarusian;1975-10-04 01:32:23;1945-08-13 09:04:52
+89;44;38;1776;37.08;Persian;1996-05-24 20:19:18;1963-06-09 16:19:45
+90;32;25;Farce of the Penguins;9.8;Marathi;2014-05-13 11:06:08;1992-02-10 05:02:10
+91;24;1;Saving Face;35.51;Arabic;1952-10-18 13:56:43;1974-02-23 05:32:02
+92;11;46;Fear, The;13.18;Catalan;1980-03-28 02:49:55;1947-07-24 02:20:25
+93;3;22;Crows and Sparrows (Wuya yu maque);35.07;Norwegian;2007-07-07 10:46:32;1988-06-13 09:33:44
+94;45;17;Matador, The;23.16;Aymara;1994-01-22 10:05:53;1965-03-13 05:24:24
+95;14;14;Chak De India!;11.76;Korean;2005-06-13 04:37:43;1969-03-28 08:43:41
+96;20;14;Casanova;40.3;Malayalam;2007-05-26 00:06:55;2016-09-01 15:37:01
+97;24;5;Story of Me, The (O contador de histórias);24.16;Haitian Creole;1946-05-17 12:50:17;1939-01-05 20:32:20
+98;24;42;Seven Pounds;19.76;Croatian;1940-09-15 11:56:02;1975-10-29 18:30:01
+99;41;3;Dead & Buried;12.96;Sotho;2004-06-09 12:25:31;1995-11-07 17:15:06
+100;45;31;Woman Thou Art Loosed;37.58;Dhivehi;1970-10-17 21:43:48;1947-09-15 00:52:31
+101;41;44;A Christmas Kiss;29.75;Punjabi;1992-02-16 15:50:23;1977-12-03 14:54:44
+102;20;17;Human Factor, The;31.55;Papiamento;2014-04-11 04:17:15;2012-04-03 04:48:15
+103;10;3;Superman and the Mole-Men;42.57;Dutch;1968-09-11 15:07:05;2006-06-26 17:23:56
+104;12;6;Trail of the Pink Panther;41.59;Georgian;1943-10-26 22:21:25;2006-02-23 14:46:00
+105;12;10;Martha Marcy May Marlene;15.84;German;1983-02-21 19:02:37;1995-06-23 23:15:06
+106;8;8;El malvado Carabel;7.33;Malayalam;1937-03-29 23:59:18;1937-06-18 07:34:48
+107;33;15;Kagi (Odd Obsession);31.02;Spanish;1933-07-12 23:58:49;1938-07-27 18:47:45
+108;42;34;Scott Joplin;23.47;Afrikaans;1987-05-20 02:50:33;1974-05-29 02:34:57
+109;17;21;Whores' Glory;38.29;Māori;2016-10-01 02:11:24;1938-11-11 08:44:28
+110;5;25;Stir of Echoes;43.33;Chinese;1951-01-07 08:25:38;1995-04-16 05:54:21
+111;19;29;The Retrieval;24.28;Ndebele;1978-11-22 21:46:34;1954-02-16 17:56:52
+112;37;12;Täällä Pohjantähden alla II ;6.64;Romanian;1989-04-04 11:23:22;1960-02-16 07:54:38
+113;41;29;Crawling Eye, The (a.k.a. Trollenberg Terror, The);28.54;Korean;1983-07-20 14:58:09;1981-07-13 21:00:30
+114;35;19;Spy in Black, The;43.05;Azeri;1955-09-08 09:50:43;2011-05-03 21:27:30
+115;38;38;Secret, A (Un secret);19.71;Hebrew;2000-03-08 18:25:51;1997-10-26 00:03:29
+116;37;26;Living Dead Girl, The (Morte Vivante, La);45.12;English;1941-03-23 02:06:30;1999-04-02 14:18:22
+117;47;44;Godsend;30.82;Sotho;1974-09-17 15:21:31;1979-10-29 12:40:16
+118;22;19;Trouble with Harry, The;16.48;Dutch;1989-09-04 08:56:49;2019-03-11 14:41:41
+119;35;7;Waco: The Rules of Engagement;38.39;Malay;1981-06-23 15:43:42;1981-06-23 06:01:48
+120;47;13;Home Alone 2: Lost in New York;17.03;Azeri;1980-06-25 15:51:12;1970-06-13 16:56:19
+121;45;5;Three Outlaw Samurai (Sanbiki no samurai);44.12;Latvian;1995-01-20 05:24:12;1948-03-13 11:09:45
+122;27;2;Holiday, The;32.9;Dari;1950-03-30 22:16:29;1972-07-08 14:28:22
+123;37;43;Mutantes;40.39;Italian;1982-04-20 05:40:34;1990-09-14 17:24:03
+124;28;22;Never Weaken;32.36;Afrikaans;1973-10-24 12:28:26;1984-09-29 16:06:45
+125;9;38;Open Water;32.23;Assamese;2000-04-17 07:49:24;1947-10-31 13:00:32
+126;41;10;Confessions of a Gangsta;24.91;Swahili;1992-02-09 12:15:32;1989-01-11 20:56:12
+127;37;44;Sleepwalking;23.97;Azeri;1974-02-20 17:36:02;1983-09-15 21:34:59
+128;10;47;Papillon;32.92;Hebrew;1940-05-12 08:11:15;1945-03-13 08:11:03
+129;30;6;The Sea Chase;13.88;Portuguese;1979-09-25 22:11:38;2001-08-07 06:32:57
+130;22;42;King Rat;16.87;Hiri Motu;2010-10-27 10:43:28;1943-09-10 07:56:58
+131;24;27;Home on the Range;33.86;Croatian;1949-01-06 10:52:04;1988-05-09 11:34:21
+132;39;38;Fate (Yazgi);43.55;Lithuanian;1945-01-29 17:16:24;1986-08-17 14:23:04
+133;42;20;Sicilian Clan, The (Clan des Siciliens, Le);37.68;Danish;2002-01-16 07:07:28;1946-05-09 23:30:44
+134;43;20;Quicksilver;44.78;French;1949-09-14 04:52:11;1984-01-13 21:36:05
+135;41;19;Marksman, The;18.35;Khmer;1963-08-11 15:26:34;1995-12-28 22:26:10
+136;28;15;Trouble in Mind;19.36;Yiddish;1998-04-16 06:08:29;2003-01-31 11:56:49
+137;2;29;Straight from the Heart;26.51;Somali;2005-07-20 17:31:06;1993-10-27 16:47:27
+138;48;20;Best of Ernie and Bert, The;25.44;Luxembourgish;1993-07-30 15:30:59;1940-05-30 05:36:19
+139;11;2;Whistling in Brooklyn;7.44;Macedonian;2007-03-09 06:43:06;1974-05-09 06:58:19
+140;28;16;Aks;16.74;Hindi;2009-07-05 00:58:01;1994-06-28 23:14:55
+141;21;46;Investigating Sex (a.k.a. Intimate Affairs);20.28;Norwegian;1941-05-27 07:50:41;1948-09-17 22:13:29
+142;18;1;EXPO: Magic of the White City;22.81;Indonesian;2011-02-20 09:56:37;1973-11-28 13:13:59
+143;44;3;Guardians of the Galaxy;13.89;Hungarian;2000-11-02 06:26:28;1984-11-23 15:31:29
+144;49;3;Robot Carnival (Roboto kânibauru);31.58;Dhivehi;1951-07-31 12:44:19;1958-04-02 07:33:36
+145;28;12;Loners (Samotári);25.92;Kyrgyz;1960-04-20 05:12:18;1961-05-24 14:21:07
+146;6;34;Karlsson on the Roof;27.45;Portuguese;1933-10-18 15:37:52;1989-12-10 02:06:31
+147;34;43;Lawless Heart, The;19.22;Tamil;1944-03-13 21:48:28;1950-12-17 11:09:15
+148;18;16;Rubin and Ed;22.76;Nepali;2004-04-24 16:04:20;1939-11-06 18:01:10
+149;49;33;Kawa;48.8;Tok Pisin;1978-01-26 20:01:21;1983-05-11 01:26:17
+150;40;20;Wolfen;12.08;English;1947-09-15 17:09:04;1974-02-08 10:05:07
+151;17;43;Ten Canoes;42.97;Punjabi;1934-07-21 19:23:23;1998-12-26 20:02:13
+152;33;6;Frozen River;9.09;Pashto;1980-12-03 17:31:16;2018-06-29 07:48:54
+153;3;44;Bad Luck (Zezowate szczescie);44.26;French;1954-12-20 10:13:11;1997-08-02 15:35:47
+154;50;31;Two if by Sea;30.79;Dzongkha;1999-01-07 16:59:17;1991-02-20 21:57:31
+155;26;39;Teeth;34.11;Kazakh;1960-06-04 01:13:55;1955-12-21 22:51:07
+156;49;2;Oliver!;32.78;Bengali;1969-04-09 06:10:32;2003-11-30 22:49:15
+157;4;18;Hav Plenty;39.96;Chinese;1997-03-15 06:20:48;1973-10-19 00:11:01
+158;7;3;Double Take;12.87;Marathi;1960-02-07 17:41:50;1994-05-07 06:44:53
+159;24;33;Dreams on Spec;35.0;Finnish;1980-03-16 08:32:26;2002-02-25 23:47:00
+160;7;39;De la servitude moderne;27.62;Danish;1997-01-01 10:25:46;1945-03-14 02:55:42
+161;36;16;Dark Knight Rises, The;33.8;Punjabi;1952-10-29 07:09:56;1998-04-11 02:47:57
+162;9;12;Island, The (a.k.a. Naked Island) (Hadaka no shima);35.55;Lao;1936-08-17 18:06:02;1967-07-27 19:05:10
+163;4;15;Garage Days;29.65;Macedonian;2004-12-04 21:58:13;1995-12-08 09:43:28
+164;26;6;Glue;7.84;Assamese;1963-08-01 04:22:30;1990-10-02 06:18:55
+165;46;29;Zero Tolerance (Noll tolerans);26.12;Bislama;1949-02-24 19:09:04;1931-02-20 13:24:56
+166;8;18;Barefoot;9.12;Gagauz;1998-11-12 10:07:39;2012-03-05 00:19:08
+167;41;44;Kukuli;24.87;Amharic;2009-02-04 17:22:54;1968-02-07 10:58:58
+168;12;10;Air Force One;39.86;French;1962-04-27 12:33:04;1984-12-18 00:30:21
+169;43;34;El chocolate del loro;38.51;Amharic;1979-07-10 13:42:07;2004-07-22 00:18:55
+170;28;20;God Save the King;12.12;Luxembourgish;1973-04-03 20:43:31;1999-06-15 17:28:20
+171;11;39;Shallow Hal;44.82;Portuguese;1993-12-05 13:56:04;1986-05-11 21:13:50
+172;44;17;Cost of Living, The (Le coût de la vie);9.55;Icelandic;1931-11-13 01:08:29;1956-12-12 12:38:38
+173;32;6;Cherrybomb;25.88;Hindi;1934-04-14 15:59:45;1976-02-10 16:22:57
+174;6;38;Truce, The (a.k.a. La Tregua);36.45;Thai;1982-02-25 03:44:03;1958-03-12 07:13:13
+175;16;43;Promise Her Anything;33.69;Tsonga;1932-12-05 19:15:14;1939-11-04 17:40:36
+176;21;23;Child's Play;30.96;Tok Pisin;1952-08-24 19:53:29;2003-12-29 13:19:38
+177;26;31;Memory Lane;26.38;Tok Pisin;1933-09-25 15:31:15;1957-11-03 10:06:32
+178;8;17;On Borrowed Time;8.77;Swati;1955-04-09 06:48:49;1936-07-24 13:45:55
+179;48;5;Restless (Levottomat);8.18;Mongolian;1975-04-16 15:11:36;1961-05-21 14:26:51
+180;33;47;Drona;31.5;Tamil;1955-07-25 12:46:44;1979-04-05 13:33:01
+181;32;16;Bobcat Goldthwait: You Don't Look the Same Either;35.53;Norwegian;2004-12-12 16:50:24;2007-05-15 01:39:57
+182;27;6;Consuming Kids: The Commercialization of Childhood;36.24;Montenegrin;1973-01-10 19:36:32;1948-06-19 01:48:05
+183;9;42;Five Children and It;12.35;English;1977-08-22 05:23:42;1945-09-11 07:05:20
+184;21;33;Roommates;14.2;Gujarati;2017-09-28 13:29:41;1959-05-19 01:09:57
+185;25;42;Backwoods (Bosque de sombras);22.42;Hiri Motu;1941-03-13 11:36:17;1969-03-10 14:26:04
+186;28;8;Unforgiven, The;48.14;Amharic;1966-06-19 20:53:39;1936-06-25 13:48:44
+187;14;23;3 Blind Mice;48.33;Kannada;1986-08-14 04:45:08;1940-12-13 20:08:36
+188;2;42;Beast with a Million Eyes, The;34.9;Pashto;1932-06-02 05:32:09;1958-09-24 09:34:04
+189;40;25;Two Moon Junction;21.65;Latvian;1965-09-05 14:47:34;1969-06-16 17:45:22
+190;44;26;Ladies Man, The;27.65;Hebrew;1944-06-17 05:29:31;1986-08-04 11:33:53
+191;41;26;Last Vegas;47.42;Nepali;1985-11-25 02:57:52;1971-10-07 16:41:23
+192;34;45;Runaway Train;37.49;Portuguese;1952-08-16 17:08:50;1972-08-16 16:05:05
+193;11;4;Landscape Suicide;17.53;Ndebele;1932-06-10 11:12:49;1965-07-22 18:05:32
+194;36;5;Phantom of the Rue Morgue;22.49;Mongolian;1949-05-01 03:25:33;1986-03-09 14:37:51
+195;26;19;Fine-Tune;38.82;Kurdish;1991-10-20 03:36:42;1948-03-08 16:03:18
+196;37;18;The Beehive;12.78;Gujarati;1983-07-02 19:30:13;1995-06-24 04:32:52
+197;40;42;Echelon Conspiracy;19.66;Northern Sotho;1947-09-14 19:30:49;1936-04-21 00:54:34
+198;16;42;Marine Story, A;42.2;Bengali;1935-05-18 11:54:32;1990-12-26 00:16:43
+199;35;16;Brown of Harvard;8.11;Punjabi;1957-11-19 06:15:01;2016-06-19 23:47:09
+200;30;21;Psychosis;29.08;Quechua;2007-04-22 07:35:07;1977-10-11 16:28:07
+201;48;4;Nazi Officer's Wife, The;12.76;Swedish;1945-11-07 13:44:38;1937-12-06 09:24:24
+202;2;2;Balance, La;25.18;Azeri;1983-06-23 19:13:49;2014-10-15 04:34:49
+203;1;16;World Without End;28.32;Polish;1993-05-06 13:34:01;2014-10-30 05:11:18
+204;14;25;Flow: For Love of Water;41.97;Māori;1958-12-10 03:01:32;1999-09-08 17:50:55
+205;5;7;My Brother Tom;18.35;Afrikaans;1953-05-10 21:25:38;2007-09-19 15:13:25
+206;40;6;Glass Shield, The;28.39;Oriya;1956-05-26 04:29:38;1965-07-30 12:17:19
+207;2;4;Under Ten Flags;18.16;Quechua;1990-09-02 16:31:46;2008-03-23 23:03:48
+208;42;19;Kolya (Kolja);31.07;Oriya;2015-09-03 23:37:44;1999-07-22 03:04:04
+209;21;5;Hell Without Limits (Lugar sin límites, El);31.19;Gagauz;2000-01-02 01:50:38;1945-01-22 04:34:29
+210;16;25;Contagion / Bio Slime;5.83;Indonesian;1937-01-22 15:20:42;1987-03-03 08:46:16
+211;32;25;Bigger Than Life;24.04;Portuguese;1961-01-07 18:22:47;1950-12-05 22:14:43
+212;17;31;Break-in;18.58;Assamese;1952-09-18 13:00:12;2018-05-03 06:42:04
+213;19;17;Cremaster 2;47.95;Malagasy;1961-08-14 18:37:25;1994-10-18 07:31:54
+214;18;12;Babylon 5: The Legend of the Rangers: To Live and Die in Starlight;41.04;Portuguese;1985-01-24 22:37:01;2015-10-29 23:17:20
+215;48;23;Hard Rain;27.71;Japanese;1961-03-17 20:43:49;1961-02-19 09:22:33
+216;9;5;Herod's Law (Ley de Herodes, La);30.41;Persian;2002-03-18 15:03:05;1988-11-24 14:26:08
+217;5;29;Naked Violence;22.3;Guaraní;1968-10-16 06:02:24;2019-07-24 07:23:52
+218;41;21;Little Lord Fauntleroy;46.84;Arabic;1981-04-18 22:38:12;1964-06-08 06:28:00
+219;18;2;Student Prince in Old Heidelberg, The;35.37;Albanian;1981-01-22 13:21:15;2018-12-14 08:49:48
+220;24;5;Beyond the Gates of Splendor;6.4;Tok Pisin;2016-03-28 08:32:30;1961-12-01 14:32:43
+221;38;43;Triplets of Belleville, The (Les triplettes de Belleville);9.5;Papiamento;1997-08-01 05:53:08;1994-12-15 02:03:27
+222;40;4;Twelve and Holding;17.92;Fijian;1983-01-29 16:01:23;1956-12-15 10:48:53
+223;37;7;Colonel Redl (Oberst Redl);37.65;Moldovan;1992-09-01 23:57:53;1993-08-24 15:03:44
+224;49;15;Walk to Remember, A;32.58;Kyrgyz;1975-08-18 17:12:14;1977-12-30 14:47:33
+225;20;6;Spirited Away (Sen to Chihiro no kamikakushi);44.03;Afrikaans;1962-04-11 05:27:43;1989-07-17 08:25:34
+226;47;25;Wrestling Ernest Hemingway;6.17;Northern Sotho;1984-04-12 04:27:46;2010-07-03 13:57:16
+227;9;19;Container;19.53;Malagasy;1983-02-11 20:43:38;1940-06-23 06:22:54
+228;7;16;Lupin the Third: The Secret of Mamo;8.11;Kazakh;1951-10-02 09:16:30;1967-04-25 17:12:35
+229;48;47;Highway ;39.1;Romanian;1974-06-25 23:08:08;1956-05-24 18:20:45
+230;10;39;Great Guy;41.19;Icelandic;1933-01-05 08:38:30;1958-10-15 01:48:49
+231;3;29;Fireworks (Hana-bi);13.98;Yiddish;2006-05-25 20:02:34;1963-11-07 11:41:25
+232;39;13;Hollywoodland;21.28;Tetum;1982-09-06 15:35:45;1938-01-19 14:06:42
+233;28;29;Honkytonk Man;24.61;Fijian;1971-01-20 16:39:55;2004-02-28 19:00:38
+234;25;16;Sentimental Swordsman, The (To ching chien ko wu ching chien);24.32;Malayalam;2016-03-27 02:14:29;1935-09-04 06:19:54
+235;20;29;Enter Nowhere;22.26;Hungarian;2014-07-04 05:52:32;1959-07-24 18:09:30
+236;11;23;Cyborg;9.63;Tamil;1972-05-07 05:13:23;1932-02-09 23:20:55
+237;15;45;Halloweentown II: Kalabar's Revenge;48.22;Lao;1990-12-31 06:54:41;2008-10-05 02:10:58
+238;4;47;Invisible Stripes;24.87;Lithuanian;1950-06-24 02:35:27;1937-09-23 01:23:39
+239;12;21;Cooler, The;26.69;Fijian;2010-12-05 00:29:59;1995-07-20 11:15:12
+240;48;12;Murderer Lives at Number 21, The (L'assassin habite... au 21);10.89;Amharic;1961-03-10 05:27:08;1972-07-01 16:39:44
+241;16;43;Sweet Movie;22.97;Thai;1990-10-04 18:28:05;1992-10-29 15:32:54
+242;32;4;Chaser, The (Chugyeogja);38.11;Italian;1989-09-06 05:43:32;2003-05-13 09:07:04
+243;25;21;What We Do in the Shadows;23.67;Romanian;2010-03-08 03:25:56;1972-05-06 21:17:50
+244;29;2;Comrades;25.08;Burmese;2007-10-06 09:57:41;1998-05-20 12:46:43
+245;38;27;George Lopez: Tall, Dark & Chicano;13.3;Hebrew;1949-09-05 09:29:30;1960-02-16 17:20:20
+246;1;34;Blood Out;15.98;Spanish;1958-11-14 18:05:08;1995-05-28 15:31:19
+247;48;12;Go;47.32;New Zealand Sign Language;2001-12-31 00:03:12;1965-09-03 00:47:10
+248;37;42;Handful of Dust, A;7.94;Malay;1961-04-08 08:01:12;1957-09-27 19:51:17
+249;12;44;13 Sins;5.82;Romanian;1980-06-30 22:31:10;1938-11-22 12:00:23
+250;9;10;Janky Promoters, The;32.56;Malagasy;1975-04-19 01:46:53;1961-07-23 00:55:06
+251;44;29;Zone, The (La Zona);10.19;Korean;1949-01-05 19:29:24;1998-05-29 15:35:22
+252;29;27;Assisted Living;17.52;Assamese;2001-11-29 02:16:01;1971-02-24 07:17:44
+253;3;39;Carnosaur;25.66;Czech;1967-01-18 20:57:12;1968-07-29 15:53:30
+254;49;6;Ashik Kerib;13.0;Sotho;1934-12-10 07:01:21;2008-06-23 15:02:00
+255;44;10;Magic Gloves, The (Los guantes mágicos);20.96;Dutch;1971-10-08 08:19:29;1999-09-21 23:26:24
+256;40;15;Three Wise Men (Kolme viisasta miestä);47.92;Thai;1982-05-27 08:43:15;1987-12-02 15:43:58
+257;25;6;Overboard;33.99;Latvian;1991-11-27 17:56:54;1967-02-20 14:32:49
+258;18;46;Our Paradise (Notre paradis);28.86;Georgian;1960-11-25 16:30:03;1961-09-16 03:27:32
+259;36;23;Unconditional Love;26.09;Montenegrin;1977-11-10 05:26:06;2005-12-08 03:30:00
+260;49;45;Oxford Blues;16.27;Tsonga;1933-06-25 10:23:15;1975-03-18 00:25:11
+261;41;43;Gatekeepers, The;14.26;Korean;1962-05-17 18:46:23;2017-10-21 11:33:39
+262;27;39;Dead of the Nite;30.84;Burmese;1948-06-12 14:42:37;2006-09-11 18:54:14
+263;8;44;Midnight Express;27.57;Filipino;1986-08-30 20:47:32;2001-02-05 23:48:22
+264;27;25;Five People You Meet in Heaven, The;27.25;Telugu;2019-01-08 11:09:40;1969-07-03 23:59:52
+265;1;13;Green Hornet, The;21.52;Marathi;1936-02-07 02:43:57;1972-06-04 05:23:00
+266;3;39;Sergio;24.02;Zulu;2010-12-27 20:55:31;1974-08-05 18:42:00
+267;11;43;Ready to Wear (Pret-A-Porter);35.02;Greek;1966-05-27 11:03:22;1966-12-23 13:53:03
+268;43;43;Forever Strong;18.71;Papiamento;1957-05-09 02:54:18;1945-06-05 07:26:53
+269;6;14;Where Angels Fear to Tread;44.35;Sotho;1963-12-04 06:16:21;1991-07-23 19:26:43
+270;2;1;Mondays in the Sun (Lunes al sol, Los);35.47;Northern Sotho;2004-11-13 22:43:57;1971-12-01 23:54:30
+271;5;31;My Little Eye;32.63;Mongolian;2017-05-05 02:22:46;1956-07-27 00:41:02
+272;4;15;Year of the Wolf, The (Suden vuosi);37.45;Japanese;2015-08-10 11:29:39;1942-07-01 20:24:06
+273;42;20;That's My Boy;27.25;Kashmiri;1946-03-21 17:00:31;2013-12-16 00:15:26
+274;10;6;Pretty Poison;48.81;Dari;1985-10-24 09:21:24;1931-07-15 13:14:54
+275;40;5;Tree, The;48.41;Dhivehi;1997-12-19 03:06:40;1980-10-20 09:11:29
+276;13;10;Laurel Canyon;47.79;Belarusian;1979-06-23 14:40:24;1949-02-26 10:15:18
+277;32;29;Ender's Game;43.18;Finnish;1982-09-14 11:36:07;1942-11-17 05:46:20
+278;42;3;Hop;5.64;Ndebele;1960-12-03 20:44:07;1967-01-17 11:17:55
+279;46;45;Made in Dagenham;22.53;Moldovan;1971-12-22 14:52:47;1996-07-20 16:58:08
+280;7;39;Speed 2: Cruise Control;39.49;Swahili;1951-07-31 10:58:36;1953-06-28 06:52:38
+281;37;2;Wee Willie Winkie;24.31;Dutch;1956-05-26 09:32:10;1949-01-11 16:25:40
+282;1;16;Genesis;11.87;Norwegian;2000-04-21 17:55:08;1986-06-26 16:16:02
+283;20;19;My Crazy Life (Mi vida loca);22.62;Estonian;1995-08-09 02:16:06;1990-06-27 13:16:03
+284;9;45;Fail-Safe;43.98;Malay;2011-01-13 17:54:56;1937-02-05 13:06:13
+285;40;25;Undead, The;14.6;Norwegian;1995-01-26 17:09:19;1974-11-15 04:53:01
+286;2;6;It's a Boy Girl Thing;9.6;Hiri Motu;1970-05-19 03:49:04;1967-10-09 07:54:19
+287;8;45;Land Before Time III: The Time of the Great Giving;40.36;Spanish;1976-07-26 12:44:25;1934-10-30 07:43:07
+288;45;33;Squaw Man, The;38.75;Haitian Creole;2011-07-21 19:56:38;1983-01-10 17:13:58
+289;9;33;Panda! Go Panda! (Panda kopanda);7.05;Moldovan;1935-03-20 05:14:59;1979-07-06 12:26:11
+290;36;8;Cimarron Kid, The;24.34;Tswana;1965-01-03 03:44:49;1933-06-17 10:49:16
+291;40;43;Encore;20.42;Macedonian;2014-02-11 07:57:07;1988-09-14 03:25:07
+292;2;4;Gotti;6.12;Marathi;1941-11-15 10:14:14;1976-09-25 11:18:59
+293;25;1;It's Love I'm After;46.37;Italian;2017-04-29 02:10:02;2007-03-25 16:30:50
+294;42;23;Underworld;39.7;Bulgarian;1977-07-15 13:15:22;1948-03-13 07:54:40
+295;25;17;Season For Assassins;13.96;German;1985-11-02 04:59:19;1979-11-22 05:33:13
+296;49;6;My Favorite Blonde;13.34;Malay;1993-05-28 18:58:21;1960-05-19 22:02:51
+297;2;1;Informant;35.14;Ndebele;1989-11-27 13:37:36;2012-09-23 06:53:34
+298;45;14;Room in Rome (Habitación en Roma);44.19;Dari;1993-06-23 11:41:48;1942-02-21 03:25:59
+299;42;26;Without a Paddle;40.53;Malagasy;1969-12-08 13:40:03;2014-06-16 18:12:44
+300;18;26;Strange Invaders;23.19;Filipino;2007-03-10 13:54:28;1976-09-13 21:19:23
+301;48;2;I'm Still Here;31.9;Kyrgyz;2002-01-22 03:27:21;1985-09-02 12:15:41
+302;21;29;Racket, The;19.88;French;1982-07-20 17:33:08;1977-03-25 10:56:44
+303;19;3;Fifth Commandment, The;7.65;Danish;1975-10-06 01:11:02;1972-01-29 09:20:40
+304;30;4;Movie, A;5.08;Icelandic;1943-10-11 18:27:42;1961-01-25 03:34:05
+305;31;21;Confessor, The (a.k.a. The Good Shepherd);12.21;Lithuanian;1988-01-01 06:01:24;1940-09-10 22:43:44
+306;46;27;Suddenly, Last Summer;43.17;English;1970-05-27 14:00:43;1985-08-22 13:06:40
+307;29;31;Slam Dunk Ernest;48.39;Amharic;1945-11-03 12:09:01;1984-06-23 09:23:33
+308;34;1;Blaise Pascal;34.23;Portuguese;1980-04-04 23:44:33;2014-01-12 11:11:06
+309;39;39;Even Cowgirls Get the Blues;16.34;Ndebele;2010-07-23 19:08:17;1962-06-30 08:16:45
+310;27;22;BloodRayne: Deliverance (BloodRayne II: Deliverance);42.93;Kazakh;2010-09-08 23:08:05;1932-10-14 15:32:40
+311;19;13;Cashback;25.27;Kannada;2011-10-23 15:20:45;1963-07-05 02:56:32
+312;9;23;Ali;13.09;Marathi;1941-05-23 15:56:00;1976-05-03 07:11:15
+313;13;7;There Was a Father (Chichi ariki);10.03;Armenian;1943-02-05 06:44:45;1994-09-01 03:52:28
+314;13;33;Inbetweeners Movie, The;49.85;Hebrew;1972-09-29 10:42:20;1962-10-01 19:12:19
+315;11;34;Miss Castaway and the Island Girls;41.39;Kannada;1992-01-18 01:13:27;1974-11-16 04:58:23
+316;46;26;For Roseanna (Roseanna's Grave);32.99;Tsonga;1991-10-31 16:04:44;1961-12-24 22:13:31
+317;26;4;Downhill Racer;40.89;Croatian;1953-09-05 02:21:59;1961-02-05 08:15:31
+318;19;23;Aziz Ansari: Live at Madison Square Garden;38.47;Malay;2014-04-18 22:23:51;1941-09-21 17:33:21
+319;21;47;Couch Trip, The;42.72;Azeri;1949-11-17 22:56:54;1958-12-12 10:20:53
+320;46;7;Brother, Can You Spare a Dime?;29.54;Hebrew;2012-08-05 04:07:09;2016-02-05 10:43:30
+321;14;44;Diary of a Lost Girl (Tagebuch einer Verlorenen);15.4;Luxembourgish;1958-04-07 05:06:10;1961-05-07 22:53:12
+322;4;13;Lost Honor of Katharina Blum, The (Verlorene Ehre der Katharina Blum oder: Wie Gewalt entstehen und wohin sie führen kann, Die);47.36;Pashto;1969-05-09 01:45:24;1939-03-11 09:23:04
+323;38;25;Room for One More;29.17;Northern Sotho;1942-07-22 07:07:48;1980-12-18 00:54:42
+324;35;6;Alice Adams;38.16;Tok Pisin;2012-08-17 03:55:57;2018-12-18 02:05:24
+325;37;26;Romasanta: The Werewolf Hunt;32.5;Moldovan;1979-07-02 20:22:05;1964-01-25 05:14:25
+326;39;33;Dick;48.08;Marathi;2012-08-06 17:36:16;1950-08-07 09:02:51
+327;47;34;Brothers (Veljekset);15.05;Mongolian;1940-08-10 06:01:55;1989-09-01 02:19:42
+328;42;26;Going the Distance;21.14;Portuguese;1935-10-21 01:35:20;1956-03-05 02:07:23
+329;15;17;Prodigal Sons;9.16;Macedonian;1946-09-14 08:04:45;1965-11-27 20:47:55
+330;42;5;Chisum;22.17;Kannada;1936-11-08 22:22:34;1994-03-03 13:25:05
+331;17;21;Grbavica: The Land of My Dreams (Grbavica);9.89;Khmer;1943-08-12 03:15:29;1948-10-01 09:40:31
+332;35;8;6 Days to Air: The Making of South Park;19.86;Kyrgyz;1955-02-19 10:36:38;2013-02-24 17:26:52
+333;13;13;January Man, The;13.27;Ndebele;1961-01-04 03:18:22;1953-01-20 14:27:31
+334;36;45;Inn in Tokyo, An (Tôkyô no yado);5.74;Oriya;1976-11-11 03:23:53;1934-01-26 05:55:39
+335;25;46;Electric Boogaloo: The Wild, Untold Story of Cannon Films;22.34;Kannada;1996-10-13 23:44:16;1987-07-31 06:39:04
+336;15;39;Something Wicked This Way Comes;10.02;Norwegian;2007-05-06 04:26:17;1936-02-09 07:59:58
+337;14;7;All In: The Poker Movie;43.09;Luxembourgish;1962-02-07 08:26:32;1951-02-24 12:28:29
+338;47;10;Wild, The;36.57;Thai;1968-03-28 21:45:40;1931-01-17 03:09:15
+339;45;18;K-11;11.83;Ndebele;2015-10-22 02:16:52;1934-11-05 21:59:06
+340;22;22;Bel Ami;40.58;Bislama;1949-10-21 23:30:28;1964-08-31 20:37:01
+341;47;18;Michael Collins;23.48;Thai;1977-12-15 14:28:51;1999-10-24 23:29:52
+342;5;12;In Good Company;49.77;Bengali;1932-01-17 14:54:08;1948-06-06 23:20:45
+343;37;13;Doc Hollywood;18.88;Bengali;1978-03-09 20:32:25;2004-07-01 02:34:45
+344;23;18;Cell 211 (Celda 211);33.99;Portuguese;1996-09-19 22:20:07;1940-05-09 15:13:05
+345;44;46;American Gun;31.81;Bosnian;1971-08-15 10:31:05;1991-05-11 02:41:02
+346;39;22;Escape Artist, The;16.06;Tetum;1998-07-24 04:54:17;1995-05-13 20:14:44
+347;27;19;Jet Pilot;25.84;English;2015-08-26 05:31:17;1971-09-16 08:47:24
+348;24;38;Lady and the Reaper, The (Dama y la muerte, La);19.31;French;1972-05-06 06:01:19;1993-11-13 19:42:44
+349;41;18;Conversation Piece (Gruppo di famiglia in un interno);41.85;Arabic;2007-04-02 23:01:44;1946-12-25 13:44:17
+350;38;19;Groomsmen, The;19.59;Bislama;1964-01-05 05:40:21;2005-12-09 11:06:45
+351;33;43;Turandot Project, The;14.2;Armenian;1942-01-07 04:41:24;1938-05-09 18:59:43
+352;25;5;I Am Fishead;33.27;Nepali;1935-01-19 18:16:20;2001-06-06 11:47:05
+353;42;21;Joyeux Noël (Merry Christmas);31.31;Chinese;1949-06-01 07:30:22;1941-08-15 20:33:25
+354;13;4;Men Without Women;29.97;Lithuanian;1977-02-17 17:16:50;2000-06-16 05:37:18
+355;47;1;Class of 1999;49.54;Oriya;1944-04-28 11:46:16;2005-12-20 06:51:27
+356;26;21;Goldfish Memory;11.6;Māori;1997-11-06 15:30:33;1935-05-18 07:57:40
+357;19;1;Santitos;35.34;Romanian;1972-02-18 10:51:10;1998-08-19 16:32:14
+358;1;3;Tied;5.06;Thai;1977-06-07 19:34:39;1960-03-22 04:07:47
+359;35;31;Maternal Halfbrothers (Braca po materi);31.2;Gagauz;1941-07-27 16:46:30;1974-06-12 21:27:20
+360;3;42;Alpha and Omega 3: The Great Wolf Games;37.28;Guaraní;1953-01-11 09:29:12;1934-05-16 19:50:01
+361;50;47;Corridors of Time: The Visitors II, The (Couloirs du temps: Les visiteurs 2, Les);29.5;English;1947-06-18 12:28:49;1986-01-18 09:31:36
+362;18;5;Metallica: Some Kind of Monster;31.22;Chinese;1978-11-11 16:19:29;1968-01-19 13:58:50
+363;34;1;Two of Us, The (Le vieil homme et l'enfant);17.9;Tswana;1987-12-28 00:42:45;2004-03-08 19:34:07
+364;28;20;14 Hours (Fourteen Hours);42.68;Aymara;1982-02-07 10:48:33;1995-09-29 19:53:57
+365;32;5;Aquí llega Condemor, el pecador de la pradera;25.5;English;1949-03-31 09:14:07;1935-06-20 15:59:52
+366;35;14;No Mercy (Yongseoneun Eupda);49.81;Tajik;1992-04-11 01:09:37;1956-08-28 07:10:47
+367;46;46;Five Days One Summer;13.05;Yiddish;1947-05-16 03:30:27;2004-04-28 17:04:14
+368;12;18;Begin Again;18.57;French;2010-11-16 08:15:05;1946-05-02 18:28:31
+369;10;26;Blood Spattered Bride, The (La novia ensangrentada);27.81;Albanian;1998-07-10 02:05:42;2011-10-29 13:18:22
+370;4;45;Samurai Fiction (SF: Episode One);10.95;Belarusian;1938-01-27 04:29:14;1994-01-22 10:31:02
+371;38;25;Stars;27.56;Chinese;1966-07-12 16:14:55;1931-07-18 07:16:17
+372;9;27;Hamlet;17.08;Burmese;1937-04-23 12:04:22;1993-04-27 06:26:48
+373;33;10;The Night Evelyn Came Out of the Grave;37.52;Swati;1979-12-15 00:28:46;1932-11-22 09:26:20
+374;24;38;Dying of the Light;40.64;Bosnian;2019-02-07 13:46:51;1939-08-01 23:14:37
+375;29;20;Little Prince, The;14.52;Afrikaans;1977-09-16 01:51:40;1997-06-23 07:58:00
+376;14;16;Divine Secrets of the Ya-Ya Sisterhood;32.71;Maltese;1970-04-21 22:48:36;2011-06-23 12:56:55
+377;43;23;Winnie the Pooh and the Honey Tree;40.27;Ndebele;1987-11-23 15:20:17;1934-01-26 14:06:26
+378;38;29;Signal, The;29.17;Hiri Motu;1978-01-17 00:24:23;1980-07-09 20:19:41
+379;39;18;Ghoulies III: Ghoulies Go to College;48.18;Malagasy;1976-02-24 17:57:00;1959-12-10 04:25:39
+380;23;21;Battle of Russia, The (Why We Fight, 5);8.03;Amharic;1995-05-21 17:59:33;2008-05-26 09:39:24
+381;31;33;Broken Wings (Knafayim Shvurot);20.66;Malay;1978-02-26 05:15:22;1995-01-11 09:55:18
+382;17;31;Country Bears, The;14.34;Persian;2017-08-12 02:10:52;1983-08-27 06:07:48
+383;5;7;Where the Road Meets the Sun;16.93;Finnish;2014-06-21 16:33:58;1989-01-02 11:29:54
+384;14;34;Dr. Bronner's Magic Soapbox;33.1;Montenegrin;1950-08-04 06:16:09;1988-10-06 04:41:11
+385;41;5;Powaqqatsi;26.11;Korean;1931-05-03 18:14:50;1998-11-07 06:34:01
+386;13;27;Radiohead: Meeting People Is Easy;20.51;Khmer;1939-10-24 11:05:53;1937-04-27 05:59:17
+387;26;42;Under the Boardwalk: The Monopoly Story;23.56;Dari;1938-11-20 00:31:15;2001-12-15 12:18:47
+388;1;5;Beastmaster 2: Through the Portal of Time;47.57;Danish;1959-04-18 01:15:07;1952-01-31 01:30:06
+389;9;19;Paper Clips;39.84;Thai;2009-03-23 10:42:06;1988-06-27 04:59:49
+390;47;33;Stolen Kisses (Baisers volés);47.84;Romanian;1934-05-19 18:16:00;1943-09-19 14:25:52
+391;4;8;Hurricane Streets;17.23;Punjabi;1930-12-13 23:17:24;1988-08-28 02:40:35
+392;19;26;Uninvited, The;47.4;Tamil;1974-02-11 14:33:11;1953-03-12 22:25:22
+393;6;27;In Harm's Way;47.24;Azeri;1949-09-25 19:13:25;1949-09-10 18:23:31
+394;14;8;Twilight;27.19;Mongolian;1994-01-03 15:33:21;1935-03-29 19:23:27
+395;22;17;Snake and Mongoose;31.59;Persian;2005-05-04 19:54:07;1966-11-29 00:32:02
+396;38;7;Sayonara;10.94;Czech;1954-07-23 11:13:15;1998-09-05 12:50:25
+397;18;3;To Gillian on Her 37th Birthday;16.38;Estonian;1953-04-09 07:31:07;1951-01-12 15:53:03
+398;23;21;Crave;43.12;Nepali;2003-08-01 23:43:07;1989-03-03 01:52:18
+399;45;29;Dupes, The (Al-makhdu'un);47.52;Yiddish;1950-05-13 15:15:21;1957-01-30 11:18:34
+400;35;12;Greaser's Palace;36.6;Luxembourgish;2016-08-16 13:47:38;2018-02-01 17:24:11
+401;8;16;Superman III;45.07;Bulgarian;1947-10-28 21:58:39;1961-03-22 20:56:23
+402;27;4;Evidence of Blood;32.42;Luxembourgish;1933-11-13 21:38:34;1956-05-30 10:33:45
+403;50;43;Final Destination 5;30.2;French;2003-01-04 20:03:18;2003-08-31 01:39:40
+404;45;16;Bob's Birthday;30.21;Kashmiri;1946-10-15 13:27:18;2012-09-10 23:57:20
+405;8;22;Susana (Devil and the Flesh, The);22.41;Luxembourgish;1996-01-13 15:00:49;1973-12-18 18:47:44
+406;29;3;Endgame;38.77;Albanian;1948-03-15 12:22:44;2008-07-30 09:28:38
+407;8;27;Twenty-Four Eyes (Nijûshi no hitomi);27.6;Nepali;1963-06-28 23:46:40;1944-01-24 11:34:13
+408;7;6;Running On Karma (Daai Zek Lou);10.65;Northern Sotho;1998-03-24 19:47:44;1952-03-11 07:46:33
+409;6;16;Jimi: All Is by My Side;45.44;Assamese;1991-03-06 12:54:16;1990-07-17 14:11:18
+410;49;13;Children of the Decree (Das Experiment 770 - Gebären auf Befehl);18.4;Burmese;1958-02-07 19:51:21;2015-06-21 03:53:12
+411;12;31;Milky Way, The;41.72;Luxembourgish;1980-09-14 10:51:07;1942-12-01 19:58:42
+412;36;38;Mystery Science Theater 3000: The Movie;24.91;Polish;1945-05-08 13:21:16;1999-04-22 01:30:56
+413;4;17;King Kong Escapes (Kingu Kongu no gyakushû);23.42;Assamese;1976-05-27 08:07:14;1982-08-16 20:55:22
+414;4;34;Out of Nature;31.82;Malayalam;1991-05-19 21:34:52;1960-09-28 05:31:43
+415;8;47;12 Angry Men;23.08;West Frisian;1949-11-22 00:34:38;1933-07-06 14:45:47
+416;9;16;10 Years;14.29;Swahili;2005-11-12 21:58:49;1983-10-31 02:15:28
+417;35;34;Flesh and Blood;22.6;Persian;1935-11-27 10:04:51;1995-09-19 00:54:17
+418;43;8;Six Shooter;8.88;Belarusian;1952-01-10 16:46:41;2001-02-02 01:11:14
+419;31;4;The Girl from the Marsh Croft;34.07;Telugu;2018-03-24 23:11:05;2003-02-09 20:50:13
+420;18;3;Bruna Surfistinha;11.28;Maltese;1992-04-24 15:26:42;1957-08-06 15:47:48
+421;15;14;Smash His Camera;43.96;Tsonga;1937-05-16 13:58:18;1942-03-17 15:17:52
+422;38;43;Jay and Silent Bob Strike Back;44.08;Gujarati;1943-11-03 18:43:16;1950-10-24 15:40:12
+423;26;17;Grand Isle;15.3;Catalan;2008-02-06 14:01:50;1954-02-10 05:03:20
+424;31;20;Les Tuche;23.32;Malayalam;1969-08-29 00:20:38;1973-04-08 23:44:24
+425;15;46;Vietnam in HD;27.09;Greek;1998-09-05 08:50:20;1995-03-20 00:29:54
+426;4;23;What Have They Done to Your Daughters?;38.87;Marathi;2015-05-06 19:34:51;2005-10-12 14:52:21
+427;9;23;Leningrad Cowboys Meet Moses;39.42;Kyrgyz;1993-06-25 22:15:55;1943-03-24 00:07:31
+428;10;33;Small Back Room, The;48.19;Haitian Creole;1934-06-03 06:46:25;2012-02-04 11:15:56
+429;1;27;Blood Alley;19.65;Lithuanian;1993-09-03 09:08:31;1952-04-06 16:44:39
+430;30;17;Stay;27.87;Sotho;1952-05-11 06:20:35;2009-03-04 08:02:53
+431;33;17;Kiss Before Dying, A;11.85;Fijian;1973-11-08 01:37:41;1984-08-26 03:41:29
+432;47;15;Enid Is Sleeping;11.1;Telugu;1982-06-15 19:28:26;1967-10-11 20:01:38
+433;48;12;Dracula: Dead and Loving It;12.25;Sotho;1944-11-14 14:36:35;1974-02-16 11:23:28
+434;32;22;Volunteers;22.66;Oriya;1949-10-31 15:49:22;2011-03-22 22:35:05
+435;2;45;52 Tuesdays;26.05;Hungarian;1967-11-06 12:44:20;1983-04-03 17:37:00
+436;37;1;Steve Jobs: The Lost Interview;13.25;Punjabi;1971-11-05 13:31:20;1945-03-27 04:14:13
+437;19;14;Look at Me (Comme une image);39.02;Filipino;1955-09-02 05:56:35;1948-01-08 16:00:41
+438;24;2;Louis Theroux: The Most Hated Family in America in Crisis;38.24;Burmese;1932-02-23 16:44:59;2008-03-23 02:37:02
+439;30;7;Hamlet (Gamlet);15.46;Dari;1956-11-18 12:07:00;2014-05-16 23:49:12
+440;37;6;Extremities;6.8;Irish Gaelic;1997-07-09 20:54:40;1994-06-01 18:12:51
+441;22;44;Bombay Beach;5.71;Burmese;1940-11-06 02:23:14;2004-05-21 11:34:55
+442;27;46;The Prophecy: Forsaken;5.6;Hindi;2009-08-09 05:49:32;1970-08-31 13:27:56
+443;39;3;Iron Man: Rise Of Technovore;17.31;Amharic;1998-10-23 00:09:07;1960-08-26 11:24:41
+444;15;26;Master of the Universe;27.1;Romanian;1997-11-27 14:03:18;2017-04-12 13:19:46
+445;42;33;Blume in Love;37.89;Assamese;1982-01-06 22:02:56;1978-03-20 09:48:03
+446;12;29;Source Family, The;42.6;Ndebele;1952-09-05 01:20:41;2013-06-08 14:38:48
+447;48;39;Rock, Paper, Scissors: The Way of the Tosser;49.67;Spanish;1964-02-03 09:12:15;1948-02-13 19:42:52
+448;8;23;Testament of Dr. Mabuse, The (Das Testament des Dr. Mabuse);28.11;Tsonga;1965-12-21 09:06:20;2007-08-16 00:26:10
+449;18;44;Wild Parrots of Telegraph Hill, The;48.31;Polish;1955-07-21 17:01:17;1960-12-06 04:31:30
+450;24;8;Chasing Amy;25.08;Latvian;1970-11-16 03:15:53;1962-10-23 11:04:47
+451;15;10;Two Sisters from Boston;18.2;Tok Pisin;1933-11-12 14:08:22;1934-09-08 02:22:26
+452;24;5;Final Darkness, The (Buio Omega);28.91;Irish Gaelic;1948-08-07 18:33:11;1979-02-09 03:20:42
+453;15;17;Jug Face;28.83;Marathi;1976-02-25 11:45:27;1987-11-10 06:32:04
+454;45;23;Which Way to the Front?;5.88;Pashto;1942-07-22 07:14:59;1977-07-15 10:59:58
+455;29;47;Directed by John Ford;28.45;Telugu;1948-08-22 11:36:27;1955-11-05 19:49:39
+456;13;20;Fletch Lives;47.97;Guaraní;1931-04-30 02:49:14;1934-06-23 15:07:21
+457;39;3;Asterix & Obelix: God Save Britannia (Astérix et Obélix: Au service de Sa Majesté);5.11;Gagauz;1955-05-14 16:41:35;1934-12-10 04:51:32
+458;30;45;Kautokeino Rebellion, The (Kautokeino-opprøret);45.17;Armenian;1949-12-17 07:23:43;1943-12-15 11:20:47
+459;29;26;Results;19.93;Fijian;1998-03-12 12:55:12;2015-12-26 17:56:42
+460;21;17;Fritz the Cat;32.23;Bulgarian;1943-03-18 00:31:43;1997-05-15 22:42:11
+461;31;19;Goodbye World;8.22;Dutch;2017-11-16 16:12:39;1938-02-01 02:48:48
+462;36;27;Love Finds Andy Hardy;11.06;Swahili;1966-06-01 03:36:46;1998-06-21 01:45:41
+463;34;29;I Dream Too Much;21.25;Croatian;1969-12-02 15:11:11;1939-11-09 17:08:29
+464;28;38;Three Worlds (Trois mondes);18.65;Māori;2004-11-22 12:50:28;1951-03-26 22:17:24
+465;13;4;Big Fan;42.47;Thai;1977-05-05 03:49:10;1979-09-24 23:35:39
+466;33;21;His Brother (Son frère);49.53;Dzongkha;1992-06-27 00:40:46;1931-12-24 17:14:17
+467;2;22;King and I, The;42.29;Spanish;1959-04-18 04:20:48;1985-11-26 09:41:46
+468;10;7;The Apocalypse;5.21;Albanian;1946-09-10 22:37:31;1954-06-14 20:08:38
+469;16;12;Swamp Water;14.37;Somali;1984-04-12 00:22:46;2014-03-16 09:58:08
+470;32;12;Chocchan's Story (Chocchan monogatari);30.53;Swedish;2000-07-05 08:41:13;1992-07-31 02:43:26
+471;26;27;Ciao Bella;35.68;Hindi;1963-05-22 16:17:31;1977-07-05 10:53:43
+472;11;14;Oldboy;20.79;Bislama;1981-09-15 22:32:45;1969-04-23 23:26:46
+473;44;1;Jimmy Neutron: Boy Genius;13.08;Latvian;2006-11-01 21:14:03;1980-04-01 05:06:42
+474;31;27;Red Spectacles, The (Jigoku no banken: akai megane);9.64;Montenegrin;1993-05-22 09:39:50;2005-06-07 09:49:20
+475;28;43;Humpday;28.5;Marathi;1954-01-25 01:35:16;1932-12-25 18:53:54
+476;48;8;Planet Terror;38.56;Croatian;1952-04-18 11:46:54;1934-07-24 13:30:44
+477;44;1;Moonrise Kingdom;33.06;Northern Sotho;1953-12-04 01:45:36;1953-09-11 05:52:08
+478;50;14;Praise;29.82;Kashmiri;1965-11-06 00:13:07;1947-09-28 23:41:39
+479;13;39;Prince of Egypt, The;16.99;Korean;1972-12-05 08:23:52;2001-06-09 12:53:40
+480;3;45;Scribbler, The;6.59;Malay;1993-11-20 16:35:06;2009-03-11 13:08:36
+481;5;23;The Land Before Time IV: Journey Through the Mists;38.94;Swati;1971-01-30 18:44:18;1981-05-21 10:24:19
+482;20;1;Shut Up and Play the Hits;46.48;Japanese;1996-09-07 20:10:15;1957-08-10 13:51:36
+483;11;18;Unleashed (Danny the Dog);40.68;Armenian;1947-09-03 00:40:15;1963-01-17 12:15:08
+484;15;38;Barabbas;35.84;Telugu;1998-01-30 09:30:37;1961-10-29 01:54:49
+485;4;21;Scooby-Doo;41.48;Hebrew;2006-04-22 01:22:05;1973-09-01 15:38:33
+486;29;29;Doctor Zhivago;11.74;Kazakh;1996-08-01 08:03:39;1992-01-14 21:49:18
+487;17;47;Time of the Gypsies (Dom za vesanje);27.17;Armenian;1961-04-15 03:47:31;1948-08-16 17:01:10
+488;32;8;10 Questions for the Dalai Lama;11.93;Gujarati;1939-11-14 03:55:17;1989-08-29 07:06:03
+489;46;26;High Crimes;17.41;Maltese;1988-03-17 06:02:44;2003-07-30 19:25:25
+490;35;38;Applause (Applaus);49.1;Polish;1960-01-28 17:55:30;2016-08-27 20:15:01
+491;27;44;Last Run, The;44.79;Italian;2015-03-26 18:47:56;2018-04-06 23:56:41
+492;2;43;Producers, The;42.01;Moldovan;1991-10-19 18:26:58;1968-11-18 01:31:07
+493;8;46;Gallowwalkers;11.34;Estonian;1945-12-19 05:47:32;1955-10-13 09:40:09
+494;4;38;Proof;45.69;French;1965-11-19 12:05:11;1967-09-19 18:53:52
+495;35;1;Mystery Street;31.91;Bosnian;1956-09-08 03:30:47;1979-11-06 14:29:08
+496;15;44;Kiss of Death;48.82;New Zealand Sign Language;1945-03-10 04:13:21;1940-09-04 09:12:33
+497;4;14;Heart of Dragon (Long de xin);15.5;Czech;2006-08-12 15:29:03;1959-11-23 00:00:15
+498;21;10;Death Wish 2;35.75;German;1980-04-26 20:05:32;2017-11-10 04:49:40
+499;6;1;Razorback;29.69;Lithuanian;1936-12-07 00:49:13;2013-09-01 07:06:15
+500;26;22;Pet, The;5.79;Armenian;1981-05-12 16:08:42;1968-11-25 10:16:30
+501;44;46;Visions of Europe;22.74;Malagasy;1938-10-08 20:14:40;1936-02-27 03:57:50
+502;32;6;Evocateur: The Morton Downey Jr. Movie;44.8;French;1941-05-13 11:56:38;1935-09-09 04:57:27
+503;29;15;Crime and Punishment;20.05;Kyrgyz;2012-08-05 21:57:31;1947-09-29 08:01:32
+504;26;3;Lost World, The;37.54;Hindi;1991-09-08 11:37:24;1959-02-24 09:30:01
+505;33;45;Street Smart;24.32;Tetum;1979-12-25 23:35:13;1979-11-27 01:20:03
+506;27;15;Spy Who Came in from the Cold, The;36.26;Korean;1960-03-01 11:06:39;1982-02-23 04:33:13
+507;15;5;Fifty-Fifty (a.k.a. Schizo) (Shiza);39.36;Kyrgyz;1959-11-18 19:39:43;1934-04-22 03:13:14
+508;37;33;We the Party;30.19;Norwegian;1986-04-17 09:30:14;1992-02-15 14:11:36
+509;30;12;Whole Night, A (Toute une nuit);8.98;Malay;1976-08-31 03:55:45;1938-04-25 18:00:02
+510;7;38;Players, The (Les infidèles);41.42;Tsonga;1977-10-08 00:18:03;1964-05-09 10:34:39
+511;49;45;4 for Texas;11.43;Somali;1996-02-23 01:16:54;1947-05-18 01:36:03
+512;2;31;Lay the Favorite;26.56;Macedonian;1987-01-07 01:29:55;1941-02-09 21:11:01
+513;50;21;Chained Heat;30.9;Nepali;1941-08-03 08:56:38;1955-03-12 15:12:41
+514;31;8;Orwell Rolls in His Grave;35.09;Lithuanian;1940-05-15 11:03:29;1979-02-02 17:33:14
+515;17;21;Saimaa Gesture, The (Saimaa-ilmiö);45.35;Oriya;1993-02-27 04:26:42;1934-11-16 04:53:13
+516;3;20;St Trinian's 2: The Legend of Fritton's Gold;13.29;Latvian;1991-12-10 11:43:45;1991-01-24 13:48:52
+517;35;13;Irreversible (Irréversible);35.68;Malay;2016-08-01 09:37:34;1939-05-04 16:51:27
+518;10;46;Wolf;11.54;Lao;1948-11-02 19:59:09;1990-06-05 20:59:23
+519;47;16;The Cabin in the Cotton;16.73;French;2018-06-24 11:00:12;1987-09-18 20:27:02
+520;16;10;Less Than Zero;36.17;Hindi;1975-03-11 23:08:19;2005-03-06 08:55:10
+521;7;42;Good German, The;5.35;Malagasy;1951-01-18 10:45:42;1996-06-28 01:17:05
+522;45;20;Gone;38.93;French;1947-08-15 17:43:58;1931-12-21 04:04:14
+523;49;25;Ruhr;11.49;Tajik;2013-08-14 22:09:36;2007-08-21 07:42:22
+524;23;45;Pajama Game, The;27.82;Northern Sotho;1957-01-29 06:40:00;1993-12-15 07:08:48
+525;21;4;Navigators, The;26.57;Irish Gaelic;1995-08-30 17:22:24;1937-09-02 23:38:56
+526;28;10;Closed Circuit;20.04;Kurdish;1946-06-15 20:35:44;2002-06-25 01:36:31
+527;3;14;Beware of Mr. Baker;31.04;Zulu;1989-01-10 12:24:04;1972-04-04 19:43:13
+528;16;10;Talk to Her (Hable con Ella);27.6;Punjabi;2019-04-14 06:02:03;1958-12-11 03:08:00
+529;11;13;Bob Funk;18.37;Arabic;1994-10-09 15:45:57;1964-02-24 17:20:49
+530;7;39;Outrage (Autoreiji);46.72;Italian;1979-08-03 17:42:09;1934-05-16 12:56:56
+531;38;2;Cruel Intentions 3;18.78;Danish;1976-03-23 04:25:29;1995-07-04 09:11:20
+532;36;39;10 MPH;27.71;Ndebele;1958-09-04 02:07:38;1973-06-29 19:36:45
+533;34;45;Lady from Shanghai, The;23.98;Macedonian;2004-01-21 03:53:57;1978-05-23 04:03:40
+534;50;26;Hoodoo Ann;30.38;Croatian;2009-03-17 08:08:43;1945-09-15 00:53:54
+535;37;47;Since You Went Away;40.56;Hebrew;1977-11-06 07:33:20;1946-11-21 06:39:16
+536;7;23;Divorce, Le;21.33;Gujarati;1947-03-09 03:50:20;1995-06-06 23:14:48
+537;39;5;Animal House;45.65;Hindi;2017-01-28 12:19:01;1987-05-15 08:54:18
+538;20;33;Mahler;14.3;Chinese;1974-08-30 19:29:58;1956-01-23 00:47:44
+539;50;13;Hold Back the Dawn;29.47;Macedonian;1997-10-06 03:28:31;1979-12-13 02:50:01
+540;25;18;Hatfields & McCoys;7.17;Estonian;1948-12-08 19:46:40;1964-01-06 03:42:23
+541;35;29;Between Two Worlds;9.92;Montenegrin;1956-02-05 09:28:06;1982-10-03 18:42:15
+542;17;3;Astro Boy;47.44;Lithuanian;1979-01-29 15:04:59;1996-03-05 10:00:39
+543;1;7;Kalevala - Uusi aika;6.62;Bislama;1980-07-17 02:40:32;1944-12-17 04:04:40
+544;9;42;Switch, The;5.77;Punjabi;1969-02-22 23:10:29;1940-04-03 11:56:24
+545;12;19;Easy;23.27;Latvian;1978-10-13 23:06:17;2016-05-28 21:08:32
+546;1;1;Three on a Match;8.12;West Frisian;1996-05-10 19:23:15;2019-06-15 10:34:46
+547;16;31;Eros (Men and Women) (Noite Vazia);49.92;French;1932-09-28 17:12:58;1988-02-13 09:49:26
+548;1;44;Private Lives of Elizabeth and Essex, The;14.33;Maltese;1960-02-18 09:30:07;1963-09-15 00:19:59
+549;4;6;Stolen Face;48.62;Portuguese;1953-10-24 08:40:37;1958-04-22 15:36:13
+550;6;44;Sel8nne;15.71;Malagasy;1949-12-24 06:48:04;2002-12-15 03:35:21
+551;48;18;Penelope;9.15;Hungarian;1934-01-03 20:14:08;2012-02-25 03:10:35
+552;29;10;Effie Gray;45.89;Azeri;1964-08-15 08:31:11;1932-12-10 20:15:31
+553;24;29;Umberto D.;7.86;Catalan;2006-12-28 08:37:11;1968-07-25 21:33:16
+554;10;42;Friends with Money;19.97;Estonian;1997-04-18 16:07:50;1931-05-24 00:11:43
+555;12;21;Season for Miracles, A;31.77;Bengali;1951-05-03 17:45:41;2004-02-12 07:03:12
+556;7;17;Chasing Ice;8.64;Czech;1934-02-15 04:00:39;1976-01-21 18:44:04
+557;10;2;Creeping Terror, The (Crawling Monster, The);40.19;Tok Pisin;1990-06-07 22:19:04;1946-04-22 20:02:59
+558;32;33;Look;49.29;Tamil;1989-10-23 02:02:13;1943-05-06 19:53:03
+559;11;13;Guest House Paradiso;31.35;Maltese;1994-04-03 13:25:09;1980-04-10 05:25:00
+560;41;14;Benny Goodman Story, The;48.16;Quechua;2004-05-01 10:02:07;2005-03-02 00:14:04
+561;10;45;Mystery Train;37.56;West Frisian;1980-12-21 04:29:32;1999-02-18 02:17:04
+562;35;33;Catfish in Black Bean Sauce;12.45;Kyrgyz;2003-11-04 01:57:53;1954-06-06 22:23:21
+563;12;21;Before the Devil Knows You're Dead;14.32;Armenian;1975-05-23 09:33:34;1994-05-16 06:38:35
+564;7;31;Trance;49.83;Hindi;1975-10-25 03:29:56;2013-10-31 03:15:14
+565;31;19;I Can't Sleep (J'ai pas sommeil);21.09;Tetum;1985-03-26 15:12:08;2002-07-04 03:00:36
+566;20;27;Evil Roy Slade;25.43;Kannada;1932-10-07 00:22:18;1960-12-27 07:01:01
+567;26;31;Grave, The;9.91;Oriya;1972-01-01 10:21:20;2002-10-06 23:22:17
+568;8;6;Shower (Xizao);32.48;Zulu;2009-12-13 17:45:13;2015-01-30 16:11:51
+569;28;46;On the Waterfront;22.63;Mongolian;1952-06-27 20:01:38;1945-09-04 17:07:52
+570;49;17;Monsieur Lazhar;14.14;Icelandic;1978-02-08 03:45:53;1932-10-06 12:48:34
+571;20;46;Nightmare on Elm Street 2: Freddy's Revenge, A;23.66;Oriya;1956-08-29 06:58:58;1949-03-13 07:42:29
+572;9;27;Home Movie;13.37;Tswana;1951-09-03 03:37:16;1954-07-09 02:05:42
+573;27;26;Zoo in Budapest;30.2;Bulgarian;1990-07-11 09:59:41;2000-12-07 15:05:09
+574;26;33;RoboCop;5.43;Zulu;1932-08-27 18:53:12;1986-10-28 15:09:39
+575;10;20;Corridors of Time: The Visitors II, The (Couloirs du temps: Les visiteurs 2, Les);32.44;Assamese;1976-08-21 14:17:03;1961-04-24 09:45:54
+576;23;18;Sometimes They Come Back... for More;37.11;Swahili;1994-07-18 17:14:11;1991-02-07 03:38:17
+577;47;29;Soundtracker;22.46;Papiamento;1959-07-17 22:20:35;1970-07-26 00:31:36
+578;18;46;12 O'Clock Boys;30.94;Ndebele;1989-06-18 02:12:57;1937-03-05 10:21:47
+579;32;6;Private Fears in Public Places (Coeurs);5.15;Malayalam;1933-06-20 01:55:54;2016-06-15 09:29:42
+580;12;25;I'm All Right Jack;17.27;Catalan;1982-04-08 01:36:45;1936-12-27 09:49:09
+581;27;13;Seven Chances;6.58;Kashmiri;1960-08-22 09:49:59;2008-05-23 09:40:42
+582;25;20;Best of the Best;40.98;Irish Gaelic;1984-04-10 11:48:02;1991-07-15 20:36:03
+583;28;7;Chain Reaction;41.41;Romanian;1933-10-29 12:54:21;1938-01-26 10:33:45
+584;50;12;I, Madman;47.4;Maltese;1957-12-09 22:18:24;1946-12-18 12:07:12
+585;16;8;Attack on Leningrad;22.79;Amharic;1945-01-03 21:55:15;1991-05-19 08:37:50
+586;3;47;Desperate;9.73;Tswana;1942-11-26 04:15:36;1974-07-11 07:35:37
+587;35;47;Golem, The (Golem, wie er in die Welt kam, Der);9.73;Kashmiri;1946-01-22 03:51:31;2011-02-07 13:41:37
+588;26;27;Horrible Way to Die, A ;45.54;Tok Pisin;1955-11-06 17:45:43;1984-01-21 15:52:30
+589;48;16;Fuga de cerebros;49.29;Luxembourgish;1952-04-24 07:23:38;1966-03-02 15:46:42
+590;19;23;Snow White and the Huntsman;16.64;Azeri;2017-07-20 15:54:08;1954-12-21 18:02:31
+591;23;20;Blue Smoke;28.75;Kashmiri;1992-11-03 18:45:23;1945-11-25 11:57:13
+592;34;18;Celsius 41.11: The Temperature at Which the Brain... Begins to Die;10.79;Pashto;1933-01-06 19:19:47;2003-07-22 19:05:53
+593;37;6;Blood Beach;26.66;Yiddish;1942-01-12 12:32:01;2011-07-05 17:41:01
+594;8;20;Hannie Caulder;21.05;Dutch;2015-03-13 01:32:01;1940-11-13 08:28:20
+595;24;33;Knights;47.03;Mongolian;1943-12-01 02:41:43;1931-03-21 23:11:24
+596;7;2;Secretariat;20.45;English;1967-06-17 01:47:03;1970-09-11 04:42:20
+597;45;26;Violent Saturday;25.09;Chinese;1962-05-19 22:08:11;1937-10-06 09:23:11
+598;41;4;Wedding Night, The;17.52;Hindi;1979-11-24 03:08:19;1985-04-11 04:27:02
+599;4;23;Brooklyn Castle;32.07;Haitian Creole;2008-11-20 15:24:47;2008-06-01 05:40:02
+600;2;13;Vietnam in HD;32.73;Aymara;1983-02-13 12:48:31;1968-12-21 10:15:54
+601;10;13;Two in the Wave;7.9;Japanese;1973-12-03 03:55:34;1996-12-20 23:01:49
+602;41;15;King Kong Escapes (Kingu Kongu no gyakushû);46.59;Romanian;1947-08-15 09:05:15;1990-07-01 13:21:27
+603;21;19;Party Monster;7.28;Māori;2001-05-04 05:37:33;1959-06-12 14:51:00
+604;35;4;Public Speaking;23.0;Marathi;2007-03-07 20:04:42;1946-01-10 03:32:46
+605;46;7;Sniper 2;36.23;Malayalam;1959-01-06 20:16:31;1988-03-04 20:40:43
+606;39;6;Dolls;32.42;Kashmiri;1950-03-09 02:55:07;1939-08-15 22:15:20
+607;43;16;Good Heart, The;23.58;Finnish;1990-04-09 00:25:56;2015-10-03 16:44:30
+608;18;26;Beast, The (La bête);41.37;Macedonian;1997-08-16 01:23:35;1978-12-13 17:33:47
+609;45;16;Hobson's Choice;43.89;Bulgarian;2015-06-14 21:59:42;1992-10-04 15:18:42
+610;43;3;Our Summer in Provence;30.64;Marathi;2015-03-16 09:26:02;1964-05-03 05:47:13
+611;3;17;Snakes on a Plane;29.54;Dutch;1944-07-26 14:39:52;1953-08-10 00:01:07
+612;42;25;Bartleby;43.14;Danish;1943-11-16 08:19:43;2006-10-03 22:46:14
+613;24;1;Grassroots;41.86;Oriya;1985-03-20 10:15:57;1999-06-13 16:02:58
+614;8;23;English Patient, The;44.3;Māori;1968-03-07 23:22:06;1972-05-14 20:32:10
+615;4;20;Source Code;30.43;Chinese;2011-10-23 08:28:38;1992-07-31 11:00:48
+616;18;4;My Mother's Smile (a.k.a. The Religion Hour) (L'ora di religione) (Il sorriso di mia madre);22.86;Irish Gaelic;2000-01-17 14:50:42;1997-07-04 08:12:22
+617;17;42;Cria! (Cría cuervos);8.44;Georgian;1940-03-11 12:01:05;1949-07-15 04:56:36
+618;23;22;Warped Ones, The (Kyonetsu no kisetsu);43.94;Hebrew;1993-11-21 20:36:21;1974-01-29 11:21:41
+619;27;8;The Wild World of Lydia Lunch;37.91;Chinese;2012-05-25 03:08:05;2009-06-07 13:23:31
+620;30;16;Just Between Friends;6.73;Irish Gaelic;1975-03-26 13:02:20;2007-05-28 16:52:24
+621;48;13;Attack on Leningrad;39.05;Tok Pisin;1955-03-22 22:20:41;2009-01-15 00:06:06
+622;28;14;Mister 880;34.35;Kashmiri;1994-02-13 17:17:46;1963-02-18 15:58:37
+623;44;43;Forsaking All Others;22.89;Pashto;2002-10-16 07:33:46;1982-02-09 23:55:41
+624;35;38;A Lesson Before Dying;42.47;Croatian;2010-08-13 10:20:17;1933-05-02 16:16:09
+625;4;19;Best of Times, The (Mei li shi guang);31.28;Mongolian;1941-07-15 21:55:02;1991-02-02 12:04:10
+626;10;39;Redhead from Wyoming, The;9.71;Gujarati;2010-10-30 08:15:38;2017-11-28 09:44:43
+627;50;38;Virgin Spring, The (Jungfrukällan);32.02;Haitian Creole;1988-01-05 19:47:50;2013-10-18 14:15:00
+628;34;47;Other End of the Line, The;13.77;Norwegian;1942-10-21 18:57:17;2015-01-25 07:41:10
+629;39;39;Lone Ranger and the Lost City of Gold, The;42.19;Finnish;1946-10-21 13:43:10;1996-06-22 23:24:54
+630;31;47;Tai Chi Master (Twin Warriors) (Tai ji: Zhang San Feng);35.59;Sotho;1995-03-19 19:44:18;1994-01-26 23:27:25
+631;41;38;If You Could Only Cook;40.81;Mongolian;2016-09-26 05:54:20;2000-07-15 01:52:08
+632;38;19;Milk and Honey;36.06;Malayalam;1971-09-08 12:11:18;2014-07-23 05:49:52
+633;48;19;Good, the Bad and the Ugly, The (Buono, il brutto, il cattivo, Il);33.64;Macedonian;1979-08-01 01:06:52;1984-09-24 10:24:05
+634;19;43;Legend of the Red Dragon (a.k.a. New Legend of Shaolin, The) (Hong Xi Guan: Zhi Shao Lin wu zu);46.05;Japanese;1952-06-25 23:38:22;1938-01-20 19:03:23
+635;46;16;Kisses;46.71;Danish;1939-03-01 12:15:41;1956-12-01 20:02:23
+636;35;23;Vice Squad;23.39;Tok Pisin;1971-12-27 03:01:02;1941-09-12 10:21:29
+637;21;22;Burn After Reading;11.8;Spanish;2002-04-10 20:59:03;1987-07-12 08:52:43
+638;11;27;Yes Man;35.48;English;1991-01-14 23:23:53;1972-10-03 17:11:07
+639;13;25;Alila;26.75;Pashto;1951-12-27 02:48:13;1955-04-08 02:23:25
+640;27;33;Girasoli, I (Sunflower);31.48;Azeri;1998-08-23 06:50:58;1972-07-10 11:56:24
+641;23;29;13 Sins;35.07;Danish;2004-12-14 01:41:32;1978-05-23 17:46:44
+642;8;29;Fatal Hour, The;43.29;Swahili;1998-04-06 00:48:39;1956-07-15 02:45:06
+643;35;17;Oily Maniac, The (You gui zi);29.04;Moldovan;1953-08-23 17:32:53;1982-04-05 17:24:18
+644;28;17;Lover Come Back;24.63;Kazakh;1980-04-19 03:35:42;1989-06-10 00:22:05
+645;25;5;Pit, The;44.04;Gagauz;1988-06-15 16:11:46;1995-06-05 03:51:06
+646;27;21;Something Borrowed;39.38;Catalan;1994-08-25 15:28:58;1949-04-05 05:34:55
+647;50;23;Fatal Instinct;21.95;Portuguese;2011-05-28 03:45:18;2014-07-17 23:51:48
+648;38;42;Tree of Life, The;34.7;Malagasy;1958-07-03 13:00:14;1945-08-06 06:41:43
+649;36;45;Eminem AKA ;13.74;Malagasy;1932-08-18 02:51:35;1935-12-10 19:57:05
+650;13;26;What If ...;19.66;English;1969-07-03 00:06:00;1932-07-01 16:44:15
+651;17;2;Masti;42.48;Somali;1967-06-11 19:37:46;1989-04-29 03:10:54
+652;26;43;Sound and Fury;9.65;Belarusian;1969-02-12 15:04:49;1931-12-15 19:28:03
+653;16;23;Postal;21.91;Croatian;1995-08-10 19:11:03;1999-03-19 18:55:37
+654;2;4;Bamako;38.11;Montenegrin;1954-01-26 14:38:03;1961-04-23 22:56:01
+655;29;4;Cats & Dogs;9.98;Hebrew;1994-05-01 11:21:24;2001-05-11 07:26:22
+656;50;10;The Gilded Cage;48.77;Korean;1999-10-19 12:32:36;1942-02-04 00:08:48
+657;1;16;Sugar Cane Alley (Rue cases nègres);26.64;Moldovan;1958-06-13 12:07:38;1937-01-18 14:17:26
+658;3;7;Tenchi: The Samurai Astronomer;15.7;English;1946-04-22 07:45:36;1995-03-14 05:08:13
+659;22;5;Runner Runner;26.88;Japanese;1974-06-24 14:37:42;1976-07-02 14:52:32
+660;9;20;Murder of Fred Hampton, The;11.98;Guaraní;1942-11-02 22:15:15;1937-01-21 18:32:46
+661;15;6;Vampires, Les;27.59;Aymara;2010-05-28 23:27:34;1934-06-26 21:42:03
+662;27;26;Buying the Cow;47.82;Estonian;1947-04-10 14:22:37;1935-03-23 09:46:34
+663;15;12;Drive Angry;24.22;Kazakh;1996-12-28 03:47:21;2015-09-05 00:40:14
+664;19;34;Contracted;36.91;Norwegian;1962-11-08 09:10:09;1958-01-27 16:18:28
+665;11;22;Shall We Dance?;12.41;Mongolian;1954-04-22 12:22:22;1974-06-08 03:02:34
+666;15;7;Sleepwalk with Me;22.76;Estonian;1931-01-30 00:45:28;2005-12-19 11:03:22
+667;19;14;Tangled;46.87;English;1953-03-04 22:27:26;1943-08-21 15:21:54
+668;14;17;Piano Teacher, The (La pianiste);22.21;Dhivehi;1942-02-13 04:13:03;1951-10-27 21:16:39
+669;12;46;Yanco ;39.18;Kurdish;2001-08-17 06:11:33;1985-06-17 06:00:21
+670;20;22;Election;38.0;Tamil;1931-06-14 12:46:00;1971-06-24 02:37:39
+671;50;47;Crawlspace;26.26;Kashmiri;1973-02-06 12:52:09;1970-02-22 11:56:31
+672;6;34;Act of Aggression;11.53;Catalan;1941-12-22 03:01:50;1951-07-28 10:09:49
+673;11;23;Bravados, The;32.55;Indonesian;2012-05-30 20:35:19;1950-01-13 15:01:52
+674;28;26;Playing for Keeps;35.41;German;1969-02-28 22:18:34;1996-08-25 03:30:15
+675;21;7;Mommie Dearest;45.89;New Zealand Sign Language;2003-09-02 02:43:23;1937-01-09 10:23:21
+676;28;44;Pioneer (Pionér);16.38;Danish;1980-11-02 09:27:39;1987-11-04 15:13:51
+677;22;19;Turn the River;28.33;Hindi;1999-07-14 00:17:27;1951-11-20 14:50:40
+678;6;21;Class, The (Entre les murs);25.55;Oriya;1957-06-07 06:15:07;1983-04-22 02:52:33
+679;43;21;Repossessed;16.59;Pashto;1970-05-04 08:16:13;1967-07-17 16:26:41
+680;32;44;Trumbo;25.36;Pashto;1980-11-06 09:10:36;1960-02-11 17:58:01
+681;20;29;Pardon Us;35.72;Malayalam;1974-07-18 22:03:45;1947-02-09 04:16:08
+682;35;25;Visit to a Small Planet;48.84;Swahili;1937-01-04 14:32:54;1978-05-10 12:10:46
+683;49;29;American Soldiers;9.07;Dari;1983-02-27 20:50:27;1995-04-01 00:21:18
+684;15;34;To Get to Heaven First You Have to Die (Bihisht faqat baroi murdagon);46.77;Macedonian;1965-06-18 13:39:13;2008-03-31 04:07:58
+685;45;47;This Boy's Life;24.76;Greek;1971-01-05 23:43:29;1943-11-14 06:58:50
+686;43;33;Willy Wonka & the Chocolate Factory;12.9;Somali;1940-07-08 01:35:58;1946-01-18 20:09:11
+687;4;19;Manufacturing Consent: Noam Chomsky and the Media;28.09;Luxembourgish;1942-01-20 13:00:08;1967-12-29 13:11:17
+688;14;6;Hawks and Sparrows (Uccellacci e Uccellini);28.63;Kashmiri;1979-05-19 10:45:41;1934-07-30 06:42:48
+689;47;20;End of Poverty, The;33.94;Guaraní;1994-10-02 05:47:10;1935-01-04 15:46:58
+690;10;38;Live Nude Girls;23.05;Persian;2019-01-30 01:47:49;1974-08-07 12:10:48
+691;42;18;Clownhouse;32.23;Kannada;1991-10-20 21:52:37;1998-04-24 22:58:08
+692;41;25;Flying Leathernecks, The;35.27;Northern Sotho;2012-01-04 16:33:23;2000-10-23 06:45:18
+693;19;33;Progression;6.58;French;2013-02-08 18:11:53;1961-10-27 18:44:47
+694;39;19;Young Törless, The (Junge Törless, Der);5.4;Somali;1972-04-12 12:17:32;2014-07-27 08:11:11
+695;44;33;Q: The Winged Serpent;49.81;New Zealand Sign Language;2018-03-23 08:59:06;1961-02-18 11:18:48
+696;9;19;Nocturno 29;5.78;Hungarian;1993-09-12 18:03:11;2009-06-30 06:36:51
+697;11;2;Crow, The;10.83;Ndebele;1964-04-09 07:11:09;1969-12-01 11:44:18
+698;24;20;Leatherheads;23.36;Papiamento;1951-05-06 22:51:22;1966-05-13 15:20:59
+699;39;22;Ainoat Oikeat;39.22;Danish;1994-11-22 10:44:14;2015-02-28 21:39:47
+700;16;12;Paris Belongs to Us (Paris nous appartient);44.74;Zulu;2001-05-08 16:33:32;1978-08-27 05:41:03
+701;39;20;180° South (180 Degrees South) (180° South: Conquerors of the Useless);47.78;Telugu;1956-04-22 00:40:48;2019-02-05 01:48:21
+702;5;33;Providence;48.1;Māori;1969-01-08 18:37:18;1955-05-08 09:23:30
+703;17;39;Countdown;10.54;Māori;1994-09-06 04:01:30;1951-05-03 19:29:29
+704;36;19;Herbie Goes to Monte Carlo;20.92;Danish;1983-07-23 14:50:02;1947-09-06 07:16:43
+705;30;18;Charly;38.83;Hiri Motu;1976-02-24 13:22:18;1953-02-09 17:13:01
+706;46;16;Yards, The;8.96;Swati;2009-02-25 13:06:29;1960-07-24 05:55:27
+707;21;12;America's Sweethearts;9.72;Guaraní;1978-05-13 08:28:40;1990-07-30 21:38:46
+708;31;4;The Magic Box;10.19;Tamil;1981-02-24 00:43:16;1931-12-31 01:13:33
+709;45;8;Thief of Paris, The (Le voleur);32.98;Zulu;1998-12-21 03:00:28;1941-11-11 10:15:45
+710;40;10;Guardian Angel;39.53;Gujarati;2018-03-06 01:52:05;1998-07-20 19:40:55
+711;47;46;Bitch, The (La chienne);11.53;Irish Gaelic;1953-09-06 20:46:41;2014-06-10 06:03:15
+712;36;21;America's Most Haunted Inns;6.24;Icelandic;1938-01-29 13:01:39;1975-12-04 20:02:54
+713;50;39;Caged Heat;12.71;Dutch;1993-10-23 08:08:33;1938-02-27 11:43:04
+714;44;31;Green Pastures, The;25.16;Spanish;1974-07-19 07:56:08;1957-12-09 02:17:17
+715;46;7;Invisible Ray, The;36.54;Guaraní;1983-04-10 06:31:10;1959-06-18 19:22:42
+716;3;4;Satan's Sword (Daibosatsu tôge);33.62;Mongolian;1938-09-09 18:42:04;1997-04-04 16:24:50
+717;12;27;Birdcage Inn (Paran daemun);14.27;English;1946-12-10 07:46:54;1934-07-21 16:11:11
+718;23;33;Quest, The;34.06;Gagauz;1993-10-12 23:58:51;1993-09-09 17:48:15
+719;13;29;Girl Play;18.64;Tsonga;1961-06-22 19:01:38;1976-12-31 01:44:52
+720;42;47;Nobody's Children (I figli di nessuno);16.88;Japanese;1994-01-10 20:16:57;1999-04-28 14:42:36
+721;13;19;Pyaar Impossible;16.72;Zulu;2010-01-08 06:03:33;1961-08-05 06:52:09
+722;38;23;Camille Claudel;35.78;Yiddish;1970-11-23 14:01:50;1941-06-28 02:48:41
+723;35;21;Vampires Suck;11.09;Zulu;1976-04-28 05:57:31;1955-10-19 15:05:38
+724;23;20;My Best Girl;47.88;Portuguese;1959-10-11 22:00:11;1939-07-30 12:51:34
+725;4;27;I Want Candy;22.6;Estonian;1962-05-09 08:04:08;1993-10-08 14:35:06
+726;34;27;Kabei: Our Mother (Kâbê);22.38;Amharic;1998-01-07 06:58:10;2008-05-13 23:33:15
+727;27;39;Zero Charisma;37.12;Kannada;1994-05-14 03:03:15;1986-07-14 06:16:55
+728;9;33;The Last Station;27.63;Afrikaans;1955-04-27 19:33:57;1951-08-16 08:30:45
+729;37;22;Eddie and the Cruisers II: Eddie Lives!;21.97;Croatian;1954-12-04 22:05:14;1938-10-25 00:03:46
+730;41;22;Lady and the Tramp;26.8;Marathi;1974-11-04 17:01:30;1943-12-13 05:29:42
+731;45;2;CB4 - The Movie;35.36;Punjabi;1959-12-14 09:34:24;2017-04-15 21:00:32
+732;39;43;Dying Swan, The (Umirayushchii lebed);5.87;Dari;1981-02-15 21:51:07;2001-10-25 02:51:28
+733;20;21;Weirdsville;18.07;Bulgarian;1985-10-11 14:35:33;1996-06-03 21:04:51
+734;34;45;Fed Up;19.15;Tetum;1992-10-28 12:11:53;2009-10-12 07:10:11
+735;21;20;Reach the Rock;17.0;Icelandic;1950-07-16 00:53:14;2015-12-05 13:40:18
+736;22;18;30 Years to Life;32.11;Icelandic;1993-12-25 15:32:54;1976-04-16 00:37:09
+737;39;19;Gun Fury;6.89;Moldovan;1977-05-24 01:49:54;1978-06-13 13:14:04
+738;35;3;In Two Minds;46.04;Bengali;1964-01-24 14:57:05;1995-02-23 13:08:04
+739;20;27;Rentun Ruusu;44.01;Romanian;1958-02-26 18:04:54;1978-12-01 11:51:02
+740;32;43;Crew, The;36.67;Albanian;1962-01-24 13:17:08;1953-07-30 07:07:09
+741;27;38;Alexandria... Why? (Iskanderija... lih?);31.85;Norwegian;2016-03-14 03:35:11;1959-01-01 15:20:50
+742;25;22;Santa Claus;32.7;Irish Gaelic;2011-12-07 18:23:08;2009-09-09 06:54:43
+743;42;29;Yossi (Ha-Sippur Shel Yossi);43.23;Moldovan;1962-10-14 12:30:45;1953-03-20 17:13:16
+744;40;42;Quitting (Zuotian);33.65;Greek;1958-08-18 17:46:21;1994-11-16 22:13:27
+745;37;1;Moll Flanders;31.92;Tajik;1997-03-26 03:43:31;2013-05-24 11:58:33
+746;19;3;Great Yokai War, The (Yôkai daisensô);38.28;Kurdish;1955-05-03 06:42:56;2007-07-12 13:35:36
+747;23;20;4th Man, The (Fourth Man, The) (Vierde man, De);40.06;Somali;1995-07-06 01:06:21;2002-05-08 17:07:31
+748;39;46;Story of Yonosuke, A (Yokomichi Yonosuke);14.45;Northern Sotho;1932-06-18 04:50:11;1960-11-22 04:57:30
+749;6;44;Triumph of the Nerds, The: The Rise of Accidental Empires;25.43;Hiri Motu;1956-01-01 14:26:27;1950-02-24 10:20:04
+750;7;5;Grotesque;25.5;Montenegrin;1941-01-08 02:38:23;1943-10-28 03:44:26
+751;4;34;Tuskegee Airmen, The;39.83;Bosnian;1977-12-20 17:04:24;1951-10-17 09:28:23
+752;4;31;The Flower;38.84;Hungarian;2015-05-02 13:34:22;1970-11-15 14:26:05
+753;18;47;Primrose Path;19.86;Kannada;1975-07-28 18:07:53;1998-12-22 21:32:16
+754;21;43;Devil at 4 O'Clock, The;22.03;Afrikaans;1957-07-05 01:18:21;1954-04-25 03:22:15
+755;50;27;Titanic;10.69;Polish;1971-05-29 13:16:02;1956-11-26 17:11:48
+756;30;46;Cat Run 2;11.89;Finnish;1942-06-04 16:24:51;1997-12-28 16:25:40
+757;2;42;Kafka;34.85;Greek;1935-06-10 11:07:37;1956-09-30 18:04:30
+758;10;20;American Adobo;29.05;Dutch;1960-01-10 14:43:49;1930-12-02 04:19:05
+759;22;21;Four more years (Fyra år till);8.18;Portuguese;1958-06-28 03:42:55;1964-11-28 23:57:22
+760;4;4;Executive Target;28.7;New Zealand Sign Language;1939-09-05 03:55:52;1943-12-24 05:56:10
+761;15;18;Planes;19.92;Icelandic;1984-02-14 10:04:27;2017-08-07 19:21:37
+762;27;12;To Be or Not to Be;19.77;Filipino;1990-08-29 12:09:29;2011-09-10 23:42:46
+763;18;46;Mía;49.1;Gagauz;1979-04-21 03:15:41;2006-06-03 18:54:29
+764;3;3;Enter the Dragon;46.2;Montenegrin;1957-12-01 04:55:54;1945-05-13 03:23:10
+765;36;19;Angel of Death;18.86;Chinese;1988-09-11 23:33:44;2001-03-29 09:17:10
+766;42;23;Suzy;41.52;Tajik;1940-11-25 05:04:39;1960-03-09 09:05:43
+767;31;27;E.T. the Extra-Terrestrial;49.64;Dzongkha;1933-04-23 01:08:55;2001-03-12 20:05:28
+768;34;17;Fifty Shades of Grey;43.64;Marathi;1976-03-27 12:46:09;2012-10-05 17:58:04
+769;19;8;You've Got Mail;42.0;Japanese;1933-11-29 21:27:03;2015-07-21 13:38:10
+770;27;15;Mother and Son (Mat i syn);31.81;New Zealand Sign Language;1989-03-04 07:52:34;2014-07-26 00:04:18
+771;16;25;We Are Young. We Are Strong.;14.16;Spanish;1977-03-11 00:34:45;1966-04-24 09:58:18
+772;38;26;Addams Family Values;38.59;Estonian;1970-11-10 15:00:15;1993-05-13 20:03:29
+773;46;12;We Cause Scenes;33.83;French;1956-12-29 06:10:55;1964-10-02 11:29:11
+774;28;45;Blood Runs Cold;23.5;Papiamento;1975-09-14 14:52:40;1999-11-21 13:09:53
+775;25;18;Wedding Crashers;46.83;Japanese;2000-08-25 04:02:07;1997-02-26 21:27:59
+776;8;12;Two Mules for Sister Sara;35.3;Tamil;1952-11-04 22:51:47;2001-04-28 01:21:03
+777;14;26;Simon Magus;18.01;Irish Gaelic;1990-02-05 04:44:44;1983-04-01 13:43:48
+778;7;14;Souler Opposite, The;32.47;Tamil;1952-05-13 03:50:49;1972-11-09 14:40:43
+779;15;33;Magic Magic;29.67;Papiamento;1951-10-22 19:36:16;2011-11-26 05:01:19
+780;14;6;Hidden Agenda;14.76;Swahili;1943-01-23 03:35:40;1959-05-11 05:41:19
+781;10;8;Hail the Conquering Hero;17.34;Portuguese;1954-04-27 06:36:23;1935-12-22 17:17:58
+782;48;8;Jonah: A VeggieTales Movie;46.88;Tsonga;1986-08-08 20:15:15;1941-03-03 04:50:32
+783;14;4;The Trip to Bountiful;36.03;Bengali;1994-10-10 06:44:50;1983-05-06 19:08:52
+784;7;26;Son of Paleface;16.09;Japanese;2001-11-11 01:30:18;2003-11-15 06:01:25
+785;4;15;Lay of the Land, The;8.76;Macedonian;1953-04-03 12:09:59;2007-07-28 14:12:38
+786;42;33;Saturday Night;9.59;Assamese;1942-12-13 17:03:25;2010-03-12 17:54:36
+787;36;38;Heart of America;24.5;Hindi;1988-09-20 02:14:46;1970-03-24 04:37:33
+788;25;23;Bad Boy (Story of Danny Lester, The);25.7;Haitian Creole;1942-04-14 08:05:30;1985-10-21 15:51:46
+789;43;14;Levitated Mass;24.42;Malay;1999-03-01 09:08:14;1973-02-02 20:25:30
+790;37;15;King Lines;29.25;Malagasy;1952-11-20 01:32:02;1941-06-27 22:35:37
+791;44;46;King's Game (Kongekabale);49.3;Azeri;1942-02-06 17:27:01;2019-07-07 01:49:59
+792;4;44;Chillerama;9.68;Kazakh;2005-11-11 01:25:33;1931-10-27 03:25:37
+793;3;44;Ironclad 2: Battle for Blood;33.93;Oriya;1970-03-20 05:42:04;1932-10-02 12:51:02
+794;41;20;Nada Gang, The (Nada);18.37;Croatian;2003-01-08 02:22:16;1979-11-13 17:11:28
+795;48;13;Just Sex and Nothing Else (Csak szex és más semmi);9.54;Montenegrin;1933-03-16 08:31:24;2008-04-21 10:45:59
+796;2;1;Down and Derby;31.98;German;1978-05-11 18:31:39;1998-11-16 14:21:57
+797;46;6;Frozen Ghost, The;7.87;Luxembourgish;2000-09-28 23:35:42;1990-02-18 13:39:53
+798;39;29;Details, The;30.5;Telugu;2015-08-25 17:06:33;1951-08-14 18:47:58
+799;8;31;One Hour Photo;8.97;Latvian;1947-07-11 15:21:59;1932-09-16 08:09:34
+800;11;29;Sweetie;42.48;Khmer;1957-01-10 14:20:52;1964-09-20 21:11:08
+801;17;21;Dead Ringers;33.16;Azeri;1934-04-30 20:29:31;1934-06-13 03:25:26
+802;18;23;Bright Victory;10.13;Yiddish;1940-03-05 01:13:29;1987-12-12 11:47:11
+803;38;45;Grand Piano;35.61;Oriya;1958-05-01 06:30:23;1975-03-02 21:38:57
+804;37;29;Needing You... (Goo naam gwa neui);24.34;Bulgarian;2013-11-04 14:07:11;1980-12-21 09:52:40
+805;28;20;Zizek!;21.59;Norwegian;1983-08-15 23:28:35;1957-07-09 02:15:22
+806;20;19;Pursuit of Happyness, The;43.84;Finnish;1932-02-13 19:49:56;1958-11-05 11:20:39
+807;48;47;Keeping Mum;10.85;Korean;1958-02-02 11:23:40;2009-02-23 20:05:36
+808;10;47;Big Night, The;45.53;Belarusian;1993-11-06 19:55:58;1937-06-24 22:13:40
+809;28;45;HellBent;7.38;Dhivehi;1939-08-02 22:56:05;2011-12-31 13:19:36
+810;43;38;Shoes of the Fisherman, The;20.8;Gagauz;1971-10-01 22:43:41;2009-07-24 02:00:17
+811;28;13;Scarlet Pimpernel, The;38.23;Aymara;1989-06-28 19:06:45;1989-07-05 10:21:09
+812;35;46;Beautiful Thing;26.79;Aymara;1999-09-02 19:04:01;1950-03-02 17:30:30
+813;13;23;All In: The Poker Movie;16.02;Papiamento;1974-07-26 00:16:15;1973-07-26 12:39:20
+814;38;17;Q & A;19.6;Irish Gaelic;1999-03-05 09:34:01;2005-04-22 08:10:54
+815;23;10;Road, Movie;44.07;Bislama;2010-03-18 21:37:55;2008-10-29 19:41:50
+816;7;47;Suspiria;19.09;Georgian;1937-03-26 11:19:03;2007-10-27 12:50:47
+817;50;16;Danube Exodus, The;43.8;Macedonian;1962-04-02 22:05:09;1990-07-16 11:58:29
+818;33;47;Dark Wind, The;23.37;Malayalam;1942-02-21 06:13:38;1960-01-16 00:54:09
+819;11;7;Megacities;21.9;Yiddish;2001-05-20 19:30:35;1977-12-24 06:08:11
+820;50;34;Last Emperor, The;37.96;English;2000-03-08 10:58:56;1996-08-12 06:24:58
+821;9;5;Look Who's Talking Too;29.12;Italian;1980-08-18 16:50:43;2005-09-03 16:58:49
+822;17;4;Fat Man and Little Boy;39.53;Guaraní;1989-11-19 18:55:27;1971-08-07 10:59:14
+823;35;12;Pact, The;36.17;Catalan;2018-11-20 16:35:18;1986-09-05 02:01:35
+824;19;4;Anne of the Thousand Days;41.4;Lithuanian;2012-04-23 13:37:33;2016-06-13 21:45:37
+825;50;6;Love the Hard Way;5.56;Swahili;2016-12-27 03:09:56;2005-11-04 13:03:02
+826;32;42;Cialo;28.91;Dutch;1997-01-29 09:46:50;1978-06-22 17:39:20
+827;21;14;Sherlock Holmes;48.76;Yiddish;1975-11-06 23:17:13;1970-08-12 15:56:59
+828;25;43;Rescue Dawn;8.0;Kashmiri;1966-08-18 14:07:24;1991-04-23 19:47:34
+829;46;18;Killers, The;25.93;German;1940-05-21 20:50:25;1964-08-15 12:53:15
+830;30;20;Herbie Goes Bananas;15.55;Arabic;1958-11-24 04:48:05;1981-06-11 11:28:18
+831;14;16;Black Watch, The;39.84;Gujarati;2016-02-11 10:23:00;1949-02-16 18:51:54
+832;50;43;Bubble;16.8;Zulu;2012-01-07 13:59:46;2007-10-04 12:39:54
+833;12;34;Tom Petty and the Heartbreakers: Runnin' Down a Dream;14.43;Armenian;1952-10-24 03:41:27;1982-08-10 17:51:38
+834;33;2;Ten Seconds to Hell;29.0;Pashto;2014-07-19 20:14:08;1954-06-14 06:01:56
+835;4;33;Solid Gold Cadillac, The;5.43;Dutch;1993-01-12 06:00:14;1996-03-30 16:01:27
+836;32;5;+1;38.12;German;1985-09-11 01:58:37;1963-03-08 18:01:06
+837;44;5;Brain Dead;46.92;English;2000-07-28 12:30:13;1990-08-01 15:10:48
+838;45;44;Navigator, The;33.68;Korean;1944-02-17 08:34:14;2016-09-10 08:39:25
+839;33;13;Faat Kiné;19.65;Swati;1938-06-29 00:03:54;2009-08-10 00:15:38
+840;6;4;Galapagos Affair: Satan Came to Eden, The;6.46;Greek;1938-06-11 08:33:43;1999-12-05 11:32:17
+841;29;23;Eastern Drift (Indigène d'Eurasie);14.14;Somali;2014-06-19 04:31:15;1983-04-28 14:16:38
+842;45;39;Megan Is Missing;28.61;Hungarian;1959-07-30 11:34:35;1973-03-25 20:43:14
+843;25;18;Flatfoot on the Nile (Piedone d'Egitto);45.49;Persian;2015-04-12 00:00:20;2004-04-25 04:46:18
+844;21;5;Son-Daughter, The;42.91;Punjabi;1952-05-01 08:47:09;1959-02-14 19:13:08
+845;37;34;Barchester Chronicles, The;43.15;Macedonian;1991-10-13 09:33:06;1939-01-17 03:04:21
+846;37;29;Jazz Singer, The;19.64;Greek;1947-07-24 20:02:22;2004-08-17 22:24:55
+847;35;23;Muertos, Los;38.01;Greek;1940-05-15 02:49:52;1931-05-20 17:04:24
+848;14;45;Chocchan's Story (Chocchan monogatari);41.13;Northern Sotho;1979-12-30 11:25:25;1957-04-25 14:19:16
+849;21;38;The Affairs of Martha;25.3;Belarusian;1971-12-21 06:51:10;1940-10-21 01:43:46
+850;11;38;Baby, the Rain Must Fall;7.89;Lao;1973-08-12 09:10:16;2011-03-23 15:26:18
+851;17;17;Abbott and Costello Go to Mars;41.37;Guaraní;1966-02-23 19:31:05;1990-12-07 05:52:23
+852;24;45;30 Minutes or Less;30.96;Italian;2005-02-18 20:32:20;2018-07-06 05:33:21
+853;29;33;Spring Fever;18.32;Catalan;2018-11-30 18:53:52;1940-04-27 18:28:52
+854;31;38;Ferris Bueller's Day Off;37.99;German;1969-08-15 23:17:18;1974-04-30 21:26:06
+855;17;2;Double Dhamaal;7.9;Guaraní;1981-04-10 05:38:46;2005-08-08 17:32:46
+856;24;23;Loving Story, The;14.73;Dzongkha;1940-07-18 12:37:04;2003-01-24 21:23:13
+857;18;22;Captain America: The Winter Soldier;47.3;Nepali;2010-11-20 23:01:08;1981-11-13 20:49:26
+858;3;10;Dictator, The;15.66;Norwegian;1971-07-23 20:32:01;1943-01-27 20:47:48
+859;14;45;Richie Rich;47.88;Burmese;1995-01-10 16:24:02;1931-07-06 12:38:21
+860;15;18;Price of Milk, The;24.29;Catalan;1983-06-08 09:34:14;1944-02-07 19:11:57
+861;46;20;Breathe In;37.73;Irish Gaelic;2015-01-29 07:34:02;1995-02-20 09:18:41
+862;38;27;Sofia's Last Ambulance (Poslednaka lineika na Sofia);27.5;Gagauz;1982-12-29 06:19:30;1990-02-14 14:47:30
+863;10;14;Cheerleaders, The;27.83;Kannada;1936-06-02 20:37:47;2011-03-05 04:07:49
+864;27;17;Saw V;12.15;Papiamento;1981-12-07 01:45:59;2003-07-26 10:24:44
+865;19;8;Mahabharata, The;28.53;Chinese;1968-09-11 14:14:55;1981-04-17 23:11:13
+866;21;1;Mr. Hobbs Takes a Vacation;28.14;Kazakh;1969-01-20 07:09:47;1983-04-12 01:00:20
+867;7;42;For Greater Glory: The True Story of Cristiada;30.25;Kashmiri;1935-07-01 23:48:21;2006-12-27 21:53:24
+868;48;6;Bridge Too Far, A;7.86;Marathi;1967-11-16 17:28:28;2015-11-17 20:27:37
+869;35;43;Mrs. Soffel;29.17;Zulu;1949-02-28 21:17:01;1996-03-15 17:42:22
+870;14;34;Nick Carter, Master Detective;11.58;Dhivehi;1961-11-09 22:57:39;2001-09-23 06:18:33
+871;16;42;Viva Zapata!;34.87;Swahili;1956-11-25 01:20:18;1941-09-07 00:07:28
+872;36;8;Coffin Rock;25.41;Macedonian;1931-04-16 12:43:48;1957-07-09 22:59:19
+873;31;43;Ingmar Bergman Makes a Movie (Ingmar Bergman gör en film);43.82;Lao;1963-04-19 03:05:06;2018-09-04 14:25:55
+874;32;12;Shadows of Liberty ;18.8;Japanese;1931-10-17 09:49:14;1962-11-21 02:29:47
+875;9;13;They Only Kill Their Masters;25.01;Yiddish;1931-06-18 05:59:18;1952-04-20 10:40:55
+876;48;13;Sophia de Mello Breyner Andresen;20.84;Dutch;2019-07-10 07:39:27;2004-03-08 01:30:53
+877;2;2;Christmas Carol, A;16.46;Gujarati;2008-12-01 16:01:18;2001-10-16 06:14:56
+878;20;17;Star Wreck: In the Pirkinning;14.09;Fijian;1982-08-12 23:51:34;1936-12-09 06:44:38
+879;44;8;Private Detective 62;32.3;Macedonian;1946-10-11 12:39:05;1972-04-09 16:42:31
+880;47;2;Howard Zinn: You Can't Be Neutral on a Moving Train;45.51;Zulu;1931-07-11 19:29:09;1992-12-16 20:23:04
+881;41;18;Factory Girl;40.73;Indonesian;2004-08-06 15:51:26;1988-06-23 16:16:03
+882;37;25;Venom;46.81;Aymara;2006-03-20 20:57:06;1987-05-09 19:19:44
+883;19;26;Prayers for Bobby;46.63;Swati;1970-09-26 02:02:31;1959-08-29 08:17:31
+884;36;38;Beekeeper, The (O melissokomos);29.43;Quechua;1974-04-23 11:47:23;2012-04-08 21:23:10
+885;39;22;Quicksilver;7.41;Polish;2009-04-25 22:13:18;1937-02-16 15:19:54
+886;46;2;Blind Alley;12.98;Telugu;1945-09-25 00:02:08;2001-02-17 10:39:32
+887;26;39;Tale of Winter, A (a.k.a. A Winter's Tale) (Conte d'hiver);11.71;Norwegian;1996-05-09 16:00:11;2006-02-26 05:27:44
+888;9;46;Bourne Ultimatum, The;34.35;Finnish;1993-04-05 17:55:40;1987-11-05 04:29:09
+889;5;43;Endless Summer, The;35.53;Kannada;1989-06-11 14:18:47;1973-06-22 04:34:09
+890;20;2;Innocence;48.04;Kashmiri;1940-03-25 16:28:27;1983-10-12 05:08:54
+891;23;2;Loputon Gehennan liekki;16.11;Papiamento;1956-09-15 15:05:58;2015-08-08 07:35:41
+892;31;14;Love Finds Andy Hardy;5.97;Albanian;1931-10-01 10:35:10;2008-06-12 01:08:26
+893;39;45;Genghis Blues;16.34;Polish;1944-06-22 12:40:15;1970-10-02 18:36:00
+894;2;25;Way We Were, The;13.74;Catalan;1997-10-26 02:38:49;1951-09-17 03:43:03
+895;18;5;Foreigner, The;10.29;English;1996-03-25 18:16:11;1963-08-01 16:27:38
+896;48;22;Don't Torture a Duckling (Non si sevizia un paperino);25.81;Czech;2010-03-17 22:47:43;1938-06-14 08:39:47
+897;42;15;Sheriff and the Satellite Kid, The;12.83;Kurdish;1931-05-02 02:26:43;1991-08-12 17:15:55
+898;46;4;Geographer Drank His Globe Away, The (Geograf globus propil);30.34;Oriya;1955-09-22 06:55:38;1965-11-15 00:19:29
+899;18;29;Colour of Magic, The (Terry Pratchett's The Colour of Magic);11.25;Italian;1951-05-02 04:19:01;1971-12-15 20:50:46
+900;40;20;The Last Farm;17.96;Belarusian;1941-11-04 00:40:36;1968-10-02 03:59:19
+901;31;15;Strip-tease;35.73;Norwegian;1954-10-20 18:45:23;1955-08-27 15:35:14
+902;20;16;Inn of the Sixth Happiness, The;36.87;Afrikaans;1936-11-06 04:33:21;1967-02-22 11:24:32
+903;23;13;Her;43.79;Kurdish;1989-09-25 10:35:25;2013-08-08 18:05:33
+904;47;17;Tiger of Eschnapur, The (Tiger von Eschnapur, Der);13.17;Tswana;1997-09-03 23:03:24;1942-10-31 21:16:15
+905;11;42;Funny Girl;29.44;Albanian;1984-04-06 15:11:57;2007-09-29 03:32:13
+906;49;23;Directed by John Ford;12.05;Zulu;1974-03-01 10:43:28;1956-03-11 02:27:46
+907;1;8;Game of Death;31.18;Bulgarian;1952-11-10 08:28:48;2010-07-05 05:08:15
+908;34;3;Cartoonist: Jeff Smith, BONE and the Changing Face of Comics, The;47.82;Dutch;2002-01-26 20:42:51;2005-07-07 14:01:36
+909;32;6;Edge of the City;44.92;Gujarati;1987-07-23 04:07:36;1979-05-13 18:14:24
+910;39;21;Strip-tease;39.22;Burmese;1992-06-06 20:38:37;2017-11-04 18:49:54
+911;19;44;Beauty and the Beast;15.37;Bosnian;1944-02-01 23:53:46;1975-05-16 12:46:16
+912;32;33;King Kong Lives;35.19;Haitian Creole;1941-09-22 22:33:36;1947-06-14 12:57:36
+913;3;10;Queen Kelly;25.34;Pashto;1962-01-20 03:16:12;1940-08-29 08:08:00
+914;8;29;Border Incident;25.66;Kyrgyz;1987-12-20 21:27:19;1980-03-11 15:25:08
+915;24;4;Huey P. Newton Story, A;36.65;Finnish;1950-10-02 16:56:24;2003-07-11 22:22:51
+916;46;18;Maya Lin: A Strong Clear Vision;6.77;Icelandic;2015-07-04 18:02:23;2008-02-28 16:26:41
+917;11;16;Alex and Emma;42.53;Tok Pisin;2003-07-03 10:29:11;1984-07-31 16:01:51
+918;44;34;Smokey and the Bandit II;29.31;Papiamento;1997-12-20 19:06:32;2016-09-13 08:36:56
+919;13;12;Homicide;6.69;Georgian;1970-05-01 00:10:17;1979-12-06 06:54:26
+920;12;38;Cleo from 5 to 7 (Cléo de 5 à 7);26.36;Dari;1979-10-22 01:42:21;1978-06-08 03:53:04
+921;15;47;Deranged;45.78;Filipino;1941-07-05 14:38:23;1942-11-15 10:25:47
+922;11;26;High Art;48.51;German;1937-04-03 23:34:51;1951-01-14 05:41:52
+923;41;13;Scream 4;12.54;Finnish;1944-03-05 04:15:59;1992-08-10 17:16:53
+924;8;31;Ned Kelly;37.58;Norwegian;1942-04-23 01:01:31;2008-07-09 10:45:05
+925;12;12;Clearing, The;24.75;Macedonian;1981-01-06 17:45:18;1930-12-11 06:21:55
+926;33;46;Bitter Victory;44.69;Mongolian;1997-05-28 01:15:25;1991-10-12 03:51:56
+927;5;22;Frisk;25.35;Moldovan;1996-04-06 07:24:37;1977-08-25 10:53:15
+928;7;29;Superman;28.3;Tok Pisin;1968-05-14 05:49:58;1936-08-20 12:11:51
+929;10;3;Wszystko, co kocham;5.29;Yiddish;1991-07-10 14:33:38;1958-03-31 15:51:42
+930;24;44;Marci X;8.66;Hebrew;1933-01-27 17:43:47;1955-02-19 04:15:19
+931;43;10;Presentation, or Charlotte and Her Steak (Présentation ou Charlotte et son steak);11.98;Northern Sotho;1981-06-27 17:27:31;1999-08-21 15:33:53
+932;22;34;Killing of America, The;48.37;Swahili;1960-10-23 10:38:21;1962-12-30 05:37:31
+933;4;4;Grimm Love (Rohtenburg);27.31;Hindi;2005-07-02 02:15:32;1956-12-21 23:58:57
+934;22;2;Aces 'N' Eights;44.12;French;1979-07-20 00:05:37;1964-10-07 04:14:15
+935;17;18;Isle, The (Seom);5.56;Tsonga;1974-02-26 14:17:49;1974-04-13 05:52:09
+936;37;14;One, The;23.06;Polish;1986-07-27 19:57:13;1976-08-28 01:14:28
+937;28;16;Elvis and Anabelle;17.89;Malayalam;1999-01-18 06:42:44;2016-09-21 04:12:17
+938;6;4;Men in the City (Männerherzen);13.53;Somali;1994-01-28 00:32:10;1969-10-07 02:00:27
+939;26;2;The Slap;30.53;Gujarati;1984-01-06 19:34:29;1942-11-01 20:25:02
+940;25;21;Ugly;13.62;Malayalam;1983-02-04 11:12:46;2018-02-26 08:57:31
+941;41;33;Eye of the Storm, The;9.33;Tswana;1960-01-12 18:37:39;1951-03-04 01:08:12
+942;47;29;Three Stooges, The;23.67;Macedonian;1972-08-09 19:31:59;1937-09-17 20:12:37
+943;41;17;Jack and Diane;10.4;Kashmiri;1940-08-19 16:27:33;2004-03-31 23:01:54
+944;29;42;Stray Dog (Nora inu);43.52;Ndebele;1986-01-27 20:23:51;1940-06-27 12:38:32
+945;38;47;Goodbye Again;35.97;Latvian;1955-02-11 02:29:55;2013-11-16 12:24:13
+946;21;3;Good Year, A;46.38;Latvian;1938-04-06 05:06:41;1960-12-31 05:06:37
+947;38;3;LennoNYC;22.92;Lithuanian;1972-06-29 12:25:23;1933-03-20 06:23:39
+948;43;34;Pronto;16.23;Catalan;2008-11-30 17:46:57;1939-07-12 23:48:34
+949;26;2;Let's Be Cops;13.0;Swati;1987-06-02 13:36:22;1935-06-14 03:39:55
+950;47;26;Miss and the Doctors (Tirez la langue, mademoiselle);15.47;Filipino;2011-11-06 20:20:27;1958-01-11 10:59:38
+951;9;25;Dream Boy;38.9;Somali;1938-04-04 12:20:54;1974-12-08 01:07:53
+952;28;17;Before Sunrise;30.59;Georgian;1966-07-05 12:41:58;1996-12-13 15:31:22
+953;28;25;Rancho Deluxe;23.08;Hindi;1944-12-08 01:14:38;1981-06-03 22:18:19
+954;23;23;Kwik Stop;27.37;Korean;1940-08-26 20:57:27;1943-02-22 17:44:39
+955;34;10;Exercice de l'État, L';34.96;French;1932-05-01 09:20:41;1989-06-12 14:24:36
+956;27;21;The Halloween That Almost Wasn't;45.84;Spanish;1969-04-18 10:18:59;1952-09-25 06:24:42
+957;4;44;Tora-san Our Lovable Tramp (Otoko wa tsurai yo);13.81;Persian;1932-08-03 16:36:06;2006-02-04 22:03:03
+958;47;33;Ugly American, The;28.02;Aymara;1987-05-02 12:44:17;2003-12-19 04:27:15
+959;37;27;Ninth Configuration, The (a.k.a. Twinkle, Twinkle, Killer Kane);9.09;Filipino;1950-02-13 07:40:30;1998-01-25 17:35:40
+960;10;12;Flight of the Living Dead;27.83;Tajik;2019-05-12 07:23:09;1984-01-18 02:44:39
+961;6;47;The Green Years;44.73;Greek;1959-09-29 02:55:57;1998-07-28 09:34:24
+962;9;1;Life in a Day;9.72;Finnish;1934-05-03 18:25:49;1978-10-11 02:11:44
+963;44;14;Where Do We Go Now?;21.85;Somali;1971-05-21 22:47:22;1937-02-03 14:43:20
+964;42;33;Decoy;18.38;Arabic;1958-04-30 21:04:19;1942-11-23 04:32:18
+965;6;46;Kirikou and the Wild Beast (Kirikou et les bêtes sauvages);44.1;Tok Pisin;2009-12-12 18:28:25;1975-01-13 20:57:23
+966;18;38;D2: The Mighty Ducks;34.1;German;1959-02-15 06:57:23;1971-05-29 07:26:17
+967;14;21;Silent Action;9.19;Haitian Creole;1989-08-04 00:28:45;1981-03-29 10:56:42
+968;8;17;Unforgettable Summer, An (Un été inoubliable);37.54;French;1965-06-22 04:35:27;1984-08-26 08:36:49
+969;44;17;His Girl Friday;27.79;Moldovan;1979-08-30 04:44:18;2010-11-26 03:58:22
+970;35;3;Mon Oncle (My Uncle);37.01;Maltese;1951-05-23 13:31:47;1994-06-14 16:40:31
+971;27;8;Ice Quake ;48.99;Nepali;2017-12-17 18:04:55;2011-02-24 09:59:45
+972;3;29;Youth Without Youth;15.07;Swati;2006-04-20 20:06:54;1940-10-14 06:04:42
+973;42;2;Bridge, The;30.57;Greek;1958-05-06 08:52:46;1960-02-15 08:38:04
+974;30;19;Maltese Falcon, The;22.86;Oriya;1974-04-28 08:05:38;1979-10-13 21:47:00
+975;19;29;Parental Guidance;14.35;Armenian;1965-04-20 20:50:26;2007-03-14 03:03:05
+976;9;2;Talaash;30.87;Arabic;2003-12-25 21:38:40;1992-02-04 00:09:25
+977;33;23;Destroy All Monsters (Kaijû sôshingeki);8.28;Maltese;1962-09-28 08:26:51;1982-02-27 07:26:57
+978;38;16;Very Harold & Kumar 3D Christmas, A;9.63;Dari;1996-07-17 21:52:50;1949-12-18 02:33:57
+979;1;13;Born to Raise Hell;39.68;Papiamento;1954-06-13 10:57:02;1940-02-19 18:23:31
+980;28;22;Bad Girls (Biches, Les);33.59;Tok Pisin;1971-12-02 21:36:45;2000-01-16 18:06:52
+981;44;3;WikiRebels: The Documentary;18.27;Ndebele;1957-07-12 20:30:25;1976-12-20 10:45:22
+982;36;12;Tea and Sympathy;44.42;Northern Sotho;2002-12-11 19:46:13;1935-02-13 15:01:50
+983;17;34;Dave Attell: Captain Miserable;33.06;English;1996-01-10 06:36:21;2002-11-11 20:20:46
+984;13;45;Departed, The;6.36;Armenian;1942-10-08 14:49:34;1935-12-11 06:25:29
+985;41;4;Rob the Mob;20.91;Arabic;2013-01-02 16:38:05;2006-09-29 06:21:38
+986;44;25;LennoNYC;39.28;Catalan;1960-03-03 08:03:16;1947-04-06 14:29:51
+987;5;25;Nights of Cabiria (Notti di Cabiria, Le);7.78;Gagauz;1931-09-08 23:15:25;1962-05-07 08:57:00
+988;18;45;Rise & Fall of ECW, The;15.17;Yiddish;1994-05-20 13:59:09;1977-05-06 19:14:19
+989;40;42;Sweet Nothing;7.49;Japanese;1965-04-15 09:23:18;1945-06-05 11:15:45
+990;17;14;Chalk Garden, The;46.28;Gujarati;2001-07-05 01:01:17;2018-02-25 16:55:12
+991;50;38;Trail Beyond, The;11.17;Romanian;2002-10-22 05:52:10;1960-01-05 22:46:20
+992;40;29;Three Wise Men (Kolme viisasta miestä);39.56;Japanese;2011-03-11 20:26:55;1951-04-23 15:33:58
+993;10;33;Cocoanuts, The;22.32;Quechua;1957-05-27 01:15:58;2008-04-26 00:44:04
+994;33;23;Salo, or The 120 Days of Sodom (Salò o le 120 giornate di Sodoma);46.17;Afrikaans;1975-09-25 09:13:57;1987-03-19 18:14:17
+995;14;29;American Rhapsody, An;22.92;Kurdish;1990-07-28 03:58:04;1947-07-12 16:14:50
+996;23;39;Last Valley, The;15.42;Greek;2015-04-18 21:59:50;1973-05-23 00:22:16
+997;18;29;White Hunter, Black Heart;29.52;Guaraní;2017-07-29 11:19:14;2015-02-26 14:07:00
+998;45;13;Tuulikaappimaa;24.15;Somali;1957-06-12 22:38:33;2011-08-01 02:27:29
+999;39;42;Last Kiss, The (Ultimo bacio, L');29.34;Dutch;2019-01-20 08:05:06;2017-11-29 21:02:44
+1000;11;33;Her Highness and the Bellboy;31.7;Burmese;1933-06-04 01:46:05;1953-08-22 09:00:36
