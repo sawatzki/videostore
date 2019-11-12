@@ -37,8 +37,10 @@
                                     <td class="d-none d-md-table-cell">@if($item->author) {{ $item->author }} @endif</td>
                                     <td class="d-none d-md-table-cell">{{ $item->price }} </td>
                                     <td class="d-none d-md-table-cell">{{ $item->created_at->format('Y') }}</td>
+
                                     <td><a class="btn-sm btn-primary" href="{{ route('movie.show', ['id' => $item->id]) }}">Show</a></td>
                                     <td><a class="btn-sm btn-primary" href="{{ route('movie.edit', ['id' => $item->id]) }}">Edit</a></td>
+                                    <td><a class="btn-sm btn-primary softdel" href="{{ route('movie.delete', ['id' => $item->id]) }}"><i class="fas fa-trash d-inline d-md-none"></i><span class="d-lg-inline">Delete</span></a></td>
                                 </tr>
                             @endforeach
                             </table>
