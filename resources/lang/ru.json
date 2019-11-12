@@ -1,0 +1,13 @@
+{
+    "My Video Store": "мой магазин",
+    "Category": "категории",
+    "Sorry, no data available": "ничё нет",
+    "Movies": "Фильмы",
+    "Authors": "Автор",
+    "Add to shopping card": "В корзину",
+    "Firstname": "Имя",
+    "Lastname": "Фамилия",
+    "is required": "рулёз",
+    "length must between :min and :max": "muß mindestens :min und darf max. :max lang sein!",
+    "Shopping card": "ведро"
+}
