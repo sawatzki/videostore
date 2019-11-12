@@ -35,6 +35,7 @@ class MovieController extends Controller
     }
 
     public function delete( $id ) {
-
+        Movie::destroy($id);
+        return redirect()->route('movie.index');
     }
 }

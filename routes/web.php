@@ -12,10 +12,12 @@
 */
 
 Auth::routes();
+Route::get('lang/{lang}', 'LanguageController@switchLang')->name('lang.switch');
+
 Route::get('/movie', 'MovieController@index')->name('movie.index');
 Route::get('/movie/show/{id}', 'MovieController@show')->name('movie.show');
-Route::get('/movie/edit/{id?}', 'MovieController@edit')->name('movie.edit');
-Route::post('/movie/store/{id?}', 'MovieController@store')->name('movie.store');
+Route::get('/movie/edit/{id?}', 'MovieController@edit')->name('movie.edit')->middleware('auth');
+Route::post('/movie/store/{id?}', 'MovieController@store')->name('movie.store')->middleware('auth');
 Route::get('/movie/delete/{id}', 'MovieController@delete')->name('movie.delete');
 
 Route::permanentRedirect('/','/movie');
